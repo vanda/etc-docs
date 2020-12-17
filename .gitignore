@@ -1,0 +1,4 @@
+api-book/api-book/_build/**
+*~
+*.swp
+**/.ipynb_checkpoints/**

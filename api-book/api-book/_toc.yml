@@ -1,0 +1,61 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+- file: introduction
+  title: "Introduction"
+- part: "Quick Start"
+  chapters:
+    - file: quick-start
+      title: "Common Queries"
+
+- part: "Searching and Filtering"
+  chapters:
+      - file: search
+        title: "Searching"
+      - file: filter
+        title: "Filtering"
+      - file: keyword
+        title: "Keyword Filters"
+      - file: boolean
+        title: "Boolean Search"
+- part: "Restrictions and Results"
+  chapters:
+      - file: restrictions
+        title: "Restrictions"
+      - file: results
+        title: "Results"
+      - file: miscellaneous
+        title: "Miscellaneous"
+- part: "Vocabularies"
+  chapters:
+      - file: vocabularies/introduction
+        title: "Introduction"
+      - file: vocabularies/search
+        title: "Searching"
+- part: "Clustering"
+  chapters:
+      - file: clusters/introduction
+        title: "Introduction"
+        #      - file: aggregations
+        #        title: "Aggregations"
+        #      - file: authorities
+        #        title: "Authorities"
+        #- part: "Authorities"
+        #  chapters:
+        #      - file: authorities/introduction
+        #        title: "authorities"
+- part: "Project Suggestions"
+  chapters:
+      - file: advanced/introduction
+        title: "Introduction"
+- part: "Data Ambles"
+  chapters:
+      - file: ambles/topics/secrets-of-the-museum
+        title: "Secrets of the Museum"
+      - file: ambles/topics/owls
+        title: "Owls"
+      - file: ambles/topics/watercolours
+        title: "Watercolours"
+- part: "Data Challenges"
+  chapters:
+      - file: challenges/oldest-things
+        title: "Oldest Things"
