@@ -9,5 +9,11 @@ title                       : Collections API Guide # The title of the book. Wil
 author                      : Victoria and Albert Museum  # The author of the book
 copyright                   : "2020"  # Copyright year to be placed in the footer
 logo                        : va-red.png  # A path to the book logo
-#execute:
-#    execute_notebooks: "off"
+#only_build_toc_files        : true
+execute:
+  execute_notebooks: cache
+sphinx:
+  config:
+    html_js_files:
+    - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+      #    - https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js

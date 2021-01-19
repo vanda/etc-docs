@@ -5,36 +5,57 @@
 - part: "Quick Start"
   chapters:
     - file: quick-start
-      title: "Common Queries"
-
-- part: "Searching and Filtering"
+      title: "Common Operations"
+    - file: example-queries
+      title: "Example Queries"
+    - file: common-identifiers 
+      title: "Example Identifiers"
+- part: "Searching"
   chapters:
-      - file: search
-        title: "Searching"
-      - file: filter
-        title: "Filtering"
-      - file: keyword
-        title: "Keyword Filters"
+      - file: search-objects
+        title: "Introduction"
       - file: boolean
-        title: "Boolean Search"
-- part: "Restrictions and Results"
+        title: "Boolean"
+- part: "Filtering"
+  chapters:
+      - file: filter-objects
+        title: "Introduction"
+      - file: keyword-filter-objects
+        title: "Keywords"
+- part: "Restrictions"
   chapters:
       - file: restrictions
-        title: "Restrictions"
-      - file: results
-        title: "Results"
+        title: "Introduction"
+      - file: images
+        title: "Images"
       - file: miscellaneous
         title: "Miscellaneous"
-- part: "Vocabularies"
-  chapters:
-      - file: vocabularies/introduction
-        title: "Introduction"
-      - file: vocabularies/search
-        title: "Searching"
 - part: "Clustering"
   chapters:
-      - file: clusters/introduction
+      - file: clusters/introduction-clusters
         title: "Introduction"
+      - file: clusters/example-cluster-queries
+        title: "Example Cluster Queries"
+- part: "Vocabularies"
+  chapters:
+      - file: vocabularies/introduction-clusters
+        title: "Introduction"
+      - file: vocabularies/overview
+        title: "Overview"
+- part: "Results"
+  chapters:
+      - file: fields/results
+        title: "Introduction"
+      - file: fields/response
+        title: "Response Formats"
+      - file: fields/images-iiif
+        title: "Images & IIIF"
+      - file: fields/object-fields-brief 
+        title: "Object Fields (Brief)"
+      - file: fields/object-fields-full
+        title: "Object Fields (Full)"
+        #      - file: clusters/cluster
+        #        title: "Clusters"
         #      - file: aggregations
         #        title: "Aggregations"
         #      - file: authorities
@@ -43,19 +64,17 @@
         #  chapters:
         #      - file: authorities/introduction
         #        title: "authorities"
-- part: "Project Suggestions"
+- part: "Puzzles"
   chapters:
-      - file: advanced/introduction
-        title: "Introduction"
-- part: "Data Ambles"
-  chapters:
-      - file: ambles/topics/secrets-of-the-museum
-        title: "Secrets of the Museum"
-      - file: ambles/topics/owls
-        title: "Owls"
-      - file: ambles/topics/watercolours
-        title: "Watercolours"
-- part: "Data Challenges"
-  chapters:
-      - file: challenges/oldest-things
-        title: "Oldest Things"
+      - file: puzzles/oldest-items
+        title: "Oldest Items"
+      - file: puzzles/cryptic-items
+        title: "Curious Items"
+        #      - file: puzzles/hidden-items
+        #        title: "Hidden Items"
+        #      - file: puzzles/green-items
+        #        title: "Green Items"
+        #- part: "Suggested Projects"
+        #  chapters:
+        #      - file: projects/introduction
+        #        title: "Introduction"
