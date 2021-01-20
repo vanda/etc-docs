@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+<html lang="en">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+  <meta name="author" content="Luca Carini, l.carini@vam.ac.uk" />
+  <meta property="og:site_name" content="Victoria and Albert Museum" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ .Permalink | absURL }}" />
+  <meta property="og:title" content="{{ $.Scratch.Get "pageTitle" }}" />
+  <title>{{ .Params.title }}</title>
+  {{ $stylesheet := .Site.Data.webpack.main }}
+  {{ with $stylesheet.css }}
+  <link href="{{ relURL . }}" rel="stylesheet">
+  {{ end }}
+</head>
+{{ partial "header.html" . }}
+<body class="theme-silent-green">
+  <div class="developers-page">
+    <div class="developers-page__content">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </div>
+  {{ $script := .Site.Data.webpack.main }}
+  {{ with $script.js }}
+  <script src="{{ relURL . }}"></script>
+  {{ end }}
+</body>
+</html>
