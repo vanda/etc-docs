@@ -1,0 +1,16 @@
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "My new Victor-Hugo site"
+disablePathToLower = "true"
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details =
+# https =//gohugo.io/getting-started/configuration/#toml-configuration
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm", "section"]
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

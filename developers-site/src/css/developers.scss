@@ -1,0 +1,142 @@
+@import '~vam-fractal/src/components/base/typography/_typography';
+@import '~vam-fractal/src/components/mixins/breakpoints/_breakpoints';
+@import '~vam-fractal/src/components/base/site-color/_site-color';
+@import '~vam-fractal/src/components/base/theme-color/_theme-color';
+@import '~vam-fractal/src/components/units/link/link';
+
+body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  background-color: siteColor(vam-black);
+  color: siteColor(vam-white);
+  position: absolute;
+  margin: 0;
+  min-height: -webkit-fill-available; // need to fix mobile modal viewprt size
+  width: 100%;
+  font-family: fontFamily(text);
+}
+
+.developers-page {
+  display: flex;
+  justify-content: center;
+
+  &__content {
+    padding-top: 70px;
+  }
+
+  &__content, &__header-title-container {
+    display: flex;
+    flex-basis: 1069px;
+    margin: 0 20px;
+    @include bpMinXSmall {
+      margin: 0 50px;
+    }
+    @include bpMinMedium {
+      flex-basis: 894px;
+      margin: 0 60px;
+    }
+    @include bpMinLarge {
+      flex-basis: 1069px;
+      margin: 0 100px;
+    }
+  }
+
+  &__content {
+    flex-direction: column;
+  }
+
+  &__header {
+    background-color: black; // not vam-black! actual black
+    display: flex;
+    height: 120px;
+    justify-content: center;
+
+    &-title-container {
+      align-items: flex-end;
+      flex-direction: row;
+    }
+
+    &-title {
+      @include typeSetting(5, semi-bold);
+      padding-bottom: 10px;
+      width: 90%;
+    }
+
+    &-logo {
+      height: 120px;
+      position: relative;
+      width: 105px;
+
+      @include bpMinXSmall {
+        height: 120px;
+        width: 175px;
+      }
+    }
+
+    &-logo svg {
+      bottom: 0;
+      color: siteColor(vam-grey-2);
+      height: 58px;
+      left: 0;
+      margin-top: 30px;
+      position: absolute;
+      width: 105px;
+
+      @include bpMinXSmall {
+        height: 88px;
+        width: 175px;
+      }
+    }
+  }
+
+  &__download-link {
+    padding-left: 23px;
+    &::before {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' id='download' viewBox='0 0 100 100'%3E%3Ctitle%3Edownload%3C/title%3E%3Cpath d='M88.65 98.563H12.334c-2.39 0-4.334-1.981-4.334-4.43V68.766c0-2.444 1.939-4.43 4.334-4.43 2.39 0 4.33 1.986 4.33 4.43v20.927h67.668V68.766c0-2.444 1.944-4.43 4.334-4.43 2.39 0 4.334 1.986 4.334 4.43v25.367c0 2.444-1.933 4.435-4.329 4.435l-.021-.005zm-16.7-50.406L53.552 66.976c-.488.499-1.094.887-1.779 1.1-.122.052-.265.079-.404.105a3.875 3.875 0 0 1-.87.096 4.043 4.043 0 0 1-2.008-.51 4.111 4.111 0 0 1-.362-.223 2.575 2.575 0 0 1-.355-.266 2.193 2.193 0 0 1-.33-.297l-18.41-18.824c-1.7-1.726-1.7-4.541 0-6.268a4.26 4.26 0 0 1 6.125 0l10.995 11.26V6.436C46.153 3.981 48.102 2 50.492 2c2.39 0 4.329 1.981 4.329 4.435V53.15l11.005-11.271a4.275 4.275 0 0 1 6.13 0c1.7 1.731 1.7 4.552 0 6.267l-.005.011z' fill='white' fill-rule='nonzero'/%3E%3C/svg%3E");
+      content: '';
+      height: 16px;
+      left: 0;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 16px;
+    }
+  }
+
+  &__navigation-link {
+    &::after {
+      content: '>';
+      height: 10px;
+      padding-left: 4px;
+      position: absolute;
+      width: 10px;
+    }
+  }
+
+  h1 {
+    @include typeSetting(5, semi-bold);
+    padding-bottom: 30px;
+  }
+  p {
+    @include typeSetting(3);
+    @include bpMinXSmall {
+      max-width: 430px;
+    }
+    @include bpMinSmall {
+      max-width: 590px;
+    }
+    margin-bottom: 20px;
+  }
+  a {
+    @include typeSetting(3, bold);
+    color: siteColor(vam-white);
+    cursor: pointer;
+    position: relative;
+    text-decoration: underline;
+  }
+
+  img {
+    height: 100%;
+    width: 100%;
+  }
+}
