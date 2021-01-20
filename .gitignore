@@ -1,3 +1,6 @@
+developers-site/node_modules/
+developers-site/dist/
+developers-site/site/data/webpack.json
 api-book/api-book/_build/**
 *~
 *.swp
