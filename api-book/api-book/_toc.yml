@@ -5,11 +5,11 @@
 - part: "Quick Start"
   chapters:
     - file: quick-start
-      title: "Common Operations"
+      title: "Operations"
     - file: example-queries
-      title: "Example Queries"
+      title: "Examples"
     - file: common-identifiers 
-      title: "Example Identifiers"
+      title: "Identifiers"
 - part: "Searching"
   chapters:
       - file: search-objects
