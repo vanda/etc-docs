@@ -1,14 +1,24 @@
 ---
-title: 'Collections'
+title: 'Collections API'
 ---
 
 # Collections API
 
-Introduction Lorem Inpsum  dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The collections API is available at:
+  
+   https://api.vam.ac.uk/v2/
 
+and has various endpoints to enable searching, filtering and clustering
+of results.
 
-<a href="https://api.vam.ac.uk" class="developers-page__navigation-link">API documentation</a>
+A comprehensive guide with examples to get you started is available here:
 
-<a href="/" class="developers-page__navigation-link">API tutorial</a>
+  <a href="https://developers.vam.ac.uk/guide/v2/" class="developers-page__navigation-link">API Guide</a>
 
-<a href="/" class="developers-page__navigation-link">Old API documentation</a>
+The reference documentation for the API is available here:
+
+  <a href="https://api.vam.ac.uk/docs" class="developers-page__navigation-link">API Reference</a>
+
+Our original API from 2009 is still available, see the historical documentation here:
+
+<a href="https://www.vam.ac.uk/api" class="developers-page__navigation-link">Old API documentation</a>

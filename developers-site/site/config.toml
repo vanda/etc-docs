@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "My new Victor-Hugo site"
+title = "V&A Data and APIs"
 disablePathToLower = "true"
 
 # RSS, categories and tags disabled for an easy start
