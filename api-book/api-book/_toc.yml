@@ -5,7 +5,7 @@
 - part: "Quick Start"
   chapters:
     - file: quick-start
-      title: "Operations"
+      title: "Introduction"
     - file: example-queries
       title: "Examples"
     - file: common-identifiers 
@@ -26,34 +26,22 @@
   chapters:
       - file: restrictions
         title: "Introduction"
-      - file: images
-        title: "Images"
       - file: miscellaneous
         title: "Miscellaneous"
 - part: "Clustering"
   chapters:
       - file: clusters/introduction-clusters
         title: "Introduction"
-      - file: clusters/example-cluster-queries
-        title: "Example Cluster Queries"
-- part: "Vocabularies"
-  chapters:
-      - file: vocabularies/introduction-clusters
-        title: "Introduction"
-      - file: vocabularies/overview
-        title: "Overview"
 - part: "Results"
   chapters:
       - file: fields/results
         title: "Introduction"
-      - file: fields/response
-        title: "Response Formats"
       - file: fields/images-iiif
         title: "Images & IIIF"
       - file: fields/object-fields-brief 
-        title: "Object Fields (Brief)"
+        title: "Fields (Summary)"
       - file: fields/object-fields-full
-        title: "Object Fields (Full)"
+        title: "Fields (Full)"
         #      - file: clusters/cluster
         #        title: "Clusters"
         #      - file: aggregations
@@ -64,12 +52,12 @@
         #  chapters:
         #      - file: authorities/introduction
         #        title: "authorities"
-- part: "Puzzles"
-  chapters:
-      - file: puzzles/oldest-items
-        title: "Oldest Items"
-      - file: puzzles/cryptic-items
-        title: "Curious Items"
+        #- part: "Puzzles"
+        #  chapters:
+        #      - file: puzzles/oldest-items
+        #        title: "Oldest Items"
+        #      - file: puzzles/cryptic-items
+        #        title: "Curious Items"
         #      - file: puzzles/hidden-items
         #        title: "Hidden Items"
         #      - file: puzzles/green-items
