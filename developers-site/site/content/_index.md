@@ -1,26 +1,17 @@
+
 ---
 title: 'V&A Data & APIs'
 ---
+The V&A makes available more than 1 million <a href="https://www.vam.ac.uk/collections">collections records</a> and over half a million images for you to explore, research, share, and play with.
 
-The V&A makes available under <a href="">licence</a> more than 1 million collections records about its <a href="https://www.vam.ac.uk/collections">collections</a>  and over half a million objects with images for you to explore, play and research with.
+This information is made available though our APIs, under <a href="">licence</a>, for the collections data (information about objects in our collections) and for the collection images (images of objects in our collections).
 
-This information is made available though our APIs, for the collections data (information about objects in our collections) and for the collection images (images of objects in our collections).
+## Getting started
 
-To get started using our collection APIs, take a look at our guide and reference documentation:
+To use our APIs, take a look at our <a href="https://developers.vam.ac.uk/guide/v2/" class="developers-page__navigation-link"> API Guide</a> and <a href="https://api.vam.ac.uk/docs" class="developers-page__navigation-link">API Reference</a>.
 
-  <a href="https://developers.vam.ac.uk/guide/v2/" class="developers-page__navig
-ation-link">API Guide</a>
+For our images API, <a href="/images" class="developers-page__navigation-link">see our (brief) documentation</a>.
 
-  <a href="https://api.vam.ac.uk/docs" class="developers-page__navigation-link">
-API Reference</a>
+## Previous work
 
-Our original API from 2009 is still available, see the historical documentation 
-here:
-
-<a href="https://www.vam.ac.uk/api" class="developers-page__navigation-link">Old
- API documentation</a>
-
-To get started using our images APIs, take a look at our (brief) documention:
-
-<a href="/images" class="developers-page__navigation-link">Images</a>
-
+Our original API from 2009 is still available, with the <a href="https://www.vam.ac.uk/api" class="developers-page__navigation-link">historical documentation</a>.
