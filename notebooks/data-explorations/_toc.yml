@@ -1,0 +1,19 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: intro
+  title: "Introduction"
+- part: "Data Explorations"
+  chapters:
+      - file: data-exploration-1
+        title: Edinburgh Ladies Debating Society
+      - file: data-exploration-2
+        title: Water Lilies
+      - file: data-exploration-3
+        title: Living with Machines
+        #      - file: data-exploration-4
+        #title: Rodin
+- part: "Data Queries"
+  chapters:
+      - file: queries/data-photographs
+        title: Photographers in the V&A Collection

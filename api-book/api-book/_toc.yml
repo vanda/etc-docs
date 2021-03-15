@@ -1,7 +1,7 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-- file: introduction
-  title: "Introduction"
+- file: welcome 
+  title: "Welcome"
 - part: "Quick Start"
   chapters:
     - file: quick-start
