@@ -6,42 +6,48 @@
   chapters:
     - file: quick-start
       title: "Introduction"
-    - file: example-queries
-      title: "Examples"
+      #    - file: example-queries
+      # title: "Examples"
     - file: common-identifiers 
       title: "Identifiers"
 - part: "Searching"
   chapters:
-      - file: search-objects
+      - file: search/introduction
         title: "Introduction"
-      - file: boolean
+      - file: search/boolean
         title: "Boolean"
 - part: "Filtering"
   chapters:
-      - file: filter-objects
+      - file: filter/introduction
         title: "Introduction"
-      - file: keyword-filter-objects
-        title: "Keywords"
-- part: "Restrictions"
+      - file: filter/keyword
+        title: "Keyword"
+- part: "Restricting"
   chapters:
-      - file: restrictions
+      - file: restriction/introduction
         title: "Introduction"
-      - file: miscellaneous
+      - file: restriction/miscellaneous
         title: "Miscellaneous"
-- part: "Clustering"
-  chapters:
-      - file: clusters/introduction-clusters
-        title: "Introduction"
 - part: "Results"
   chapters:
       - file: fields/results
         title: "Introduction"
-      - file: fields/images-iiif
-        title: "Images & IIIF"
       - file: fields/object-fields-brief 
         title: "Fields (Summary)"
-      - file: fields/object-fields-full
-        title: "Fields (Full)"
+- part: "Images"
+  chapters:
+      - file: images/introduction
+        title: "Introduction"
+      - file: images/iiif
+        title: "IIIF"
+- part: "Data Visualisation"
+  chapters:
+      - file: data-vis/introduction
+        title: "Introduction"
+      - file: data-vis/clustering
+        title: "Clustering"
+        #      - file: fields/object-fields-full
+        #        title: "Fields (Full)"
         #      - file: clusters/cluster
         #        title: "Clusters"
         #      - file: aggregations
