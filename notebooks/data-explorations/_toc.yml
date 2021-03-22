@@ -11,9 +11,7 @@
         title: Water Lilies
       - file: data-exploration-3
         title: Living with Machines
-        #      - file: data-exploration-4
-        #title: Rodin
-- part: "Data Queries"
-  chapters:
-      - file: queries/data-photographs
-        title: Photographers in the V&A Collection
+      - file: data-exploration-4
+        title: Artgrams
+      - file: data-exploration-5
+        title: Photographers in the V&A 
