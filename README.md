@@ -5,3 +5,9 @@ resources.
 
   - developers - Hugo powered site giving developers overview
   - api-book - Jupyter Book guide to the API
+
+## Building
+
+### developers-site
+
+

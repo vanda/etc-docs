@@ -14,8 +14,9 @@ If you would like to see some worked examples exploring the collections data, lo
 
 For using our image API, <a href="/images" class="developers-page__navigation-link">see our brief documentation</a> or read on more depth the <a href="https://iiif.io/">IIIF Image API</a> standard.
 
-![Results of API Query for 'tiger'](/static/vam-api-query-tigers.png)
 
 ## v1 API
 
 Our original API from 2009 is still available, with the <a href="https://www.vam.ac.uk/api" class="developers-page__navigation-link">historical documentation</a>.
+
+![Results of API Query for 'tiger'](/vam-api-query-tigers.png#floatright)
