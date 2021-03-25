@@ -22,7 +22,7 @@
         title: "Introduction"
       - file: filter/keyword
         title: "Keyword"
-- part: "Restricting"
+- part: "Restriction"
   chapters:
       - file: restriction/introduction
         title: "Introduction"
