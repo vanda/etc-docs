@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "V&A Data and APIs"
+title = "Collections Data"
 disablePathToLower = "true"
 
 # RSS, categories and tags disabled for an easy start

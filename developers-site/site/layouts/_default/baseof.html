@@ -20,6 +20,11 @@
     <div class="developers-page__content">
       {{ block "main" . }}{{ end }}
     </div>
+    <div class="developers-page__sidebar">
+	    {{ with .Params.sidebar_img }}
+	      <img src="{{.}}"/>
+	      {{ end }}
+    </div>
   </div>
   {{ $script := .Site.Data.webpack.main }}
   {{ with $script.js }}

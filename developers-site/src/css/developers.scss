@@ -24,9 +24,13 @@ body {
     padding-top: 70px;
   }
 
+  &__sidebar {
+    padding-top: 35px;
+  }
+
   &__content, &__header-title-container {
     display: flex;
-    flex-basis: 1069px;
+    flex-basis: auto;
     margin: 0 20px;
     @include bpMinXSmall {
       margin: 0 50px;
@@ -36,12 +40,12 @@ body {
       margin: 0 60px;
     }
     @include bpMinLarge {
-      flex-basis: 1069px;
+      flex-basis: auto;
       margin: 0 100px;
     }
   }
 
-  &__content {
+  &__content, &__sidebar {
     flex-direction: column;
   }
 
@@ -105,7 +109,6 @@ body {
 
   &__navigation-link {
     &::after {
-      content: '>';
       height: 10px;
       padding-left: 4px;
       position: absolute;
