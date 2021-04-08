@@ -8,7 +8,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   background-color: siteColor(vam-black);
-  color: siteColor(vam-white);
+  color: siteColor(vam-grey-7);
   position: absolute;
   margin: 0;
   min-height: -webkit-fill-available; // need to fix mobile modal viewprt size
@@ -16,33 +16,68 @@ body {
   font-family: fontFamily(text);
 }
 
+h1,h2,h3,h4,h5,p,span,li {
+  @include bpMinMedium {
+    max-width: 790px;
+  }
+  @include bpMinLarge {
+    max-width: 900px;
+  }
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+p,ul {
+  margin-top: 0;
+}
+
 .developers-page {
   display: flex;
   justify-content: center;
 
+  &__page {
+    justify-content: end;
+    @include bpMinXSmall {
+      margin: 0 50px;
+    }
+    @include bpMinMedium {
+      margin: 0 60px;
+    }
+    @include bpMinLarge {
+      flex-basis: 1200px;
+      margin: 0 100px;
+    }
+  }
+
   &__content {
     padding-top: 70px;
+    width: 900px;
   }
 
   &__sidebar {
     padding-top: 35px;
   }
 
-  &__content, &__header-title-container {
-    display: flex;
-    flex-basis: auto;
-    margin: 0 20px;
+  &__header-title-container {
+    width: 100%;
+
     @include bpMinXSmall {
       margin: 0 50px;
     }
     @include bpMinMedium {
-      flex-basis: 894px;
       margin: 0 60px;
     }
     @include bpMinLarge {
-      flex-basis: auto;
+      flex-basis: 1200px;
       margin: 0 100px;
     }
+  }
+
+  &__content, &__header-title-container {
+    display: flex;
+    flex-basis: auto;
   }
 
   &__content, &__sidebar {
@@ -118,16 +153,10 @@ body {
 
   h1 {
     @include typeSetting(5, semi-bold);
-    padding-bottom: 30px;
+    margin-top: 0;
   }
   p {
     @include typeSetting(3);
-    @include bpMinXSmall {
-      max-width: 430px;
-    }
-    @include bpMinSmall {
-      max-width: 590px;
-    }
     margin-bottom: 20px;
   }
   a {
@@ -139,7 +168,13 @@ body {
   }
 
   img {
+    display: none;
     height: 100%;
-    width: 100%;
+    padding-left: 30px;
+    width: auto;
+
+    @include bpMinMedium {
+      display: block;
+    }
   }
 }
