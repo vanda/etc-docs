@@ -9,3 +9,12 @@ title                       : Data Explorations # The title of the book. Will be
 author                      : V&A - Digital Media & Publishing  # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
 logo                        : va-red.png  # A path to the book logo
+repository:
+        url:    https://github.com/vanda/etc-docs/
+        path_to_book: notebooks/data-explorations/
+html:
+        use_repository_button: true
+        use_issues_button: true
+        use_edit_page_button: true
+
+only_build_toc_files: true
