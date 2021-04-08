@@ -16,6 +16,14 @@ body {
   font-family: fontFamily(text);
 }
 
+h2 {
+  margin-top: 30px;
+}
+
+p {
+  margin-top: 0;
+}
+
 .developers-page {
   display: flex;
   justify-content: center;
@@ -118,7 +126,7 @@ body {
 
   h1 {
     @include typeSetting(5, semi-bold);
-    padding-bottom: 30px;
+    margin-top: 0;
   }
   p {
     @include typeSetting(3);
