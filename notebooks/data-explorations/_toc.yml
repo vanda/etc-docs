@@ -6,12 +6,24 @@
 - part: "Data Explorations"
   chapters:
       - file: data-exploration-1
-        title: Edinburgh Ladies Debating Society
+        title: 1. Ladies of Edinburgh
       - file: data-exploration-2
-        title: Water Lilies
+        title: 2. Water Lilies Challenge
       - file: data-exploration-3
-        title: Living with Machines
+        title: 3. Living with Machines
       - file: data-exploration-4
-        title: Artgrams
+        title: 4. Artgrams
       - file: data-exploration-5
-        title: Photographers in the V&A 
+        title: 5. V&A Photographers
+      - file: data-exploration-6
+        title: 6. Windmills Vs Giants
+      - file: data-exploration-7
+        title: 7. Springtime in Paris
+      - file: data-exploration-8
+        title: 8. Beards Through Time
+      - file: data-exploration-9
+        title: 9. Vesuvius Viewsheds Via Birmingham
+      - file: data-exploration-10
+        title: 10. Classifying Constable's Clouds
+        #      - file: data-exploration-11
+        # title: 11. BnF

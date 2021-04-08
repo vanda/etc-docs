@@ -2,3 +2,7 @@ jupyter-book
 matplotlib
 numpy
 ghp-import
+pandas
+bokeh
+altair
+
