@@ -16,9 +16,9 @@
       - file: data-exploration-5
         title: 5. V&A Photographers
       - file: data-exploration-6
-        title: 6. Windmills Vs Giants
+        title: 6. Animal, Vegetable or Machine Learning
       - file: data-exploration-7
-        title: 7. Springtime in Paris
+        title: 7. 
       - file: data-exploration-8
         title: 8. Beards Through Time
       - file: data-exploration-9
@@ -26,4 +26,12 @@
       - file: data-exploration-10
         title: 10. Classifying Constable's Clouds
         #      - file: data-exploration-11
-        # title: 11. BnF
+        # title: 11. Montaigne's Miscellany
+        #
+        #      - file: data-exploration-12
+        # title: 12. Springtime in Paris
+        #
+        #      - file: data-exploration-13
+        # title: 13. Lighthouse Families
+        #
+        #      - file: data-exploration-14

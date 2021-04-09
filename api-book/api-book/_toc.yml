@@ -30,9 +30,9 @@
         title: "Miscellaneous"
 - part: "Results"
   chapters:
-      - file: fields/results
+      - file: results/introduction
         title: "Introduction"
-      - file: fields/object-fields-brief 
+      - file: results/object-fields-brief 
         title: "Fields (Summary)"
 - part: "Images"
   chapters:
