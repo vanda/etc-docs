@@ -10,11 +10,11 @@
       - file: data-exploration-2
         title: 2. Water Lilies Challenge
       - file: data-exploration-3
-        title: 3. Living with Machines
+        title: 3. Curious Machines
       - file: data-exploration-4
         title: 4. Artgrams
       - file: data-exploration-5
-        title: 5. V&A Photographers
+        title: 5. Photographers at the Museum
       - file: data-exploration-6
         title: 6. Animal, Vegetable or Machine Learning
       - file: data-exploration-7
@@ -22,7 +22,7 @@
       - file: data-exploration-8
         title: 8. Beards Through Time
       - file: data-exploration-9
-        title: 9. Vesuvius Viewsheds Via Birmingham
+        title: 9. Vesuvius Viewsheds 
       - file: data-exploration-10
         title: 10. Classifying Constable's Clouds
         #      - file: data-exploration-11
