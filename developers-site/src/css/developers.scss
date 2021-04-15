@@ -17,11 +17,11 @@ body {
 }
 
 h1,h2,h3,h4,h5,p,span,li {
-  @include bpMinMedium {
-    max-width: 790px;
+  @include bpMinXSmall {
+    max-width: 430px;
   }
   @include bpMinLarge {
-    max-width: 900px;
+    max-width: 590px;
   }
 }
 
@@ -38,22 +38,23 @@ p,ul {
   justify-content: center;
 
   &__page {
+    margin: 0 20px;
     justify-content: end;
     @include bpMinXSmall {
       margin: 0 50px;
     }
     @include bpMinMedium {
-      margin: 0 60px;
+      margin: auto;
+      width: 640px;
     }
     @include bpMinLarge {
-      flex-basis: 1200px;
-      margin: 0 100px;
+      margin: auto;
+      width: 1069px;
     }
   }
 
   &__content {
     padding-top: 70px;
-    width: 900px;
   }
 
   &__sidebar {
@@ -61,6 +62,7 @@ p,ul {
   }
 
   &__header-title-container {
+    margin: 0 20px;
     width: 100%;
 
     @include bpMinXSmall {
@@ -68,10 +70,11 @@ p,ul {
     }
     @include bpMinMedium {
       margin: 0 60px;
+      width: 640px;
     }
     @include bpMinLarge {
-      flex-basis: 1200px;
-      margin: 0 100px;
+      margin: auto;
+      width: 1069px;
     }
   }
 
@@ -173,7 +176,7 @@ p,ul {
     padding-left: 30px;
     width: auto;
 
-    @include bpMinMedium {
+    @include bpMinLarge {
       display: block;
     }
   }
