@@ -10,10 +10,10 @@ The site's technical build uses:
   * [Jupyter Book](jupyterbook.org/)
   * [Pandas](pandas.pydata.org/)
   * [Altair](altair-viz.github.io/)
-  * [Ivpy](https://github.com/damoncrockett/ivpy)
+  * [A modified version of Ivpy](https://github.com/atiro/ivpy)
   * [Python](https://www.python.org/)
   * and various other libraries mentioned in individual explorations.
-  
+
 and the examples feature the collections data and images of the [V&A](https://www.vam.ac.uk) and:
   * [National Library of Scotland, Edinburgh](https://nls.uk) (Exploration 1)
   * [Art Institute of Chicago, Chicago](https://artic.edu/) (Exploration 2)
