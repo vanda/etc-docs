@@ -5,4 +5,8 @@ ghp-import
 pandas
 bokeh
 altair
-
+# Below are different libraries used in different data exploration notebooks
+ipyleaflet
+reportlab
+scattertext
+imagehash
