@@ -1,0 +1,64 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+# Test page structure tools on Leonardo notebooks - s
+# Test OCR on playbills
+# NLP on object history
+# CNN on object images - extract materials
+# object history to Graph
+# validating consistency of facts - AI ?
+# images search
+parts:
+ - caption: Image Challenges
+   numbered: False
+   chapters:
+   - file: 1-fg-bg-seperation
+     title: 1. FG/BG Seperation
+   - file: 2-image-classification
+     title: 2. Image Classification
+   - file: 3-image-labelling
+     title: 3. Image Labelling
+   - file: 4-image-caption
+     title: 4. Image Caption/Title
+   - file: 5-image-description
+     title: 5. Image Description
+   - file: 6-object-detection
+     title: 6. Object Detection
+   - file: 7-object-classification
+     title: 7. Object Classification
+   - file: 8-visual-relationship-objects
+     title: 8. Visual Relationship
+   - file: 9-pose-detection
+     title: 9. Pose Detection
+   - file: 10-style-genre-classification
+     title: 10. Style/Genre Classification
+   - file: 11-artist-maker-classification
+     title: 11. Artist/Maker Classification
+   - file: 12-material-techniques-classification
+     title: 12. Material/Techniques Classification
+   - file: 13-object-type-classification
+     title: 13. Object Type Identification
+   - file: 14-iconography-classification-image
+     title: 14. Iconography Classification (image level)
+   - file: 15-iconography-classification-pixel
+     title: 15. Iconography Classification (pixel level)
+   - file: 16-ocr-htr-text-content
+     title: 16. OCR/HTR for Textual Content
+   - file: 17-image-retrieval-cultural-objects
+     title: 17. Image Retrieval (image level)
+   - file: 18-image-retrieval-patterns
+     title: 18. Image Retrieval (pixel level)
+   - file: 19-terminology-retrieval
+     title: 19. Image Retrieval (terminology)
+   - file: 20-image-registration
+     title: 20. Image Registration
+ - caption: Text Challenges
+   chapters:
+   - file: T01-author-identification
+     title: T01. Author Identification
+ - caption: Knowledge Challenges
+   chapters:
+   - file: 21-knowledge-query
+     title: K01. Knowledge Query
