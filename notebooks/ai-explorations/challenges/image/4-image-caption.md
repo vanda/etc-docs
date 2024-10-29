@@ -4,7 +4,7 @@
 
 ### Problem Statement
 
-Generate a one sentance summary description of an image that could be used as a caption/credit
+Generate a one sentance summary description of an image that could be used as a caption/credit for the image
 
 ### Background
 

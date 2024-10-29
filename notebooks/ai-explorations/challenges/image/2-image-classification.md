@@ -65,7 +65,7 @@ Particular artworks that would be very hard challenges for this problem
 
 ### Complex 
 
-Recording some particularly complex challenges a particalar cultural heritage object might present for solutions to this problem.
+Recording some particularly complex challenges a particular cultural heritage object might present for solutions to this problem.
 
 ## Projects 
 

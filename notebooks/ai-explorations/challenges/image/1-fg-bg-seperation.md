@@ -13,9 +13,14 @@ to be able to seperate the artefact in the professionally photographed image fro
 
 One use for this is to then be able to examine ...
 
+
+  * Object colour based search - removing the background stops this colour being picked up, enabling only the colours of the pixels in the cultural heritage object to be indexed, enabling a "browse by cultural heritage object colour" functionality (
+  * Background colour based search - obviously the opposite is also true, for anyone wanting to examine the popularity/changes over time in the background colour choice of museum object photography, by ignoring the cultural heritage object the pixels in the background itself could be indexed.
+
+
 The entirely manual process equivalent would be drawing around the cultural heritage as closely as possible with a * and cropping, then removing any extraneous background pixels by hand as much as can be 
 
-## Related Problems
+### Related Problems
 
   * ?-object-recognition
   * 3-image-caption
@@ -23,11 +28,6 @@ The entirely manual process equivalent would be drawing around the cultural heri
   * 5-image-
 
 There are some differences though (for example, 
-
-### Enables
-
-  * Object colour based search - removing the background stops this colour being picked up, enabling only the colours of the pixels in the cultural heritage object to be indexed, enabling a "browse by cultural heritage object colour" functionality (
-  * Background colour based search - obviously the opposite is also true, for anyone wanting to examine the popularity/changes over time in the background colour choice of museum object photography, by ignoring the cultural heritage object the pixels in the background itself could be indexed.
 
 ## Solutions 
 
@@ -62,9 +62,6 @@ in a model/architecture/training data that is not clear in the current implement
 
 None at present
 
-## Narrower Variations
-
-None at present
 
 ## Use Cases
 
@@ -76,25 +73,16 @@ Particular artworks that would be very hard challenges for this problem. Objects
     
 ## Projects (Cultural Heritage)
 
-## Active
+#### 2024
 
-## 2024
-
-### 2014
+#### 2014
 
   * Cooper Hewitt Colour Search
 
 ## Bibliography (Cultural Heritage)
 
-### 2024
+### Cultural Heritage
+
+#### 2024
 
 
-## Bibliography (General)
-
-## Relevant Datasets
-
-MSCoCo
-
-## Relevant Models
-
-## 
