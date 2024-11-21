@@ -23,7 +23,7 @@ imagesize==1.2.0
 importlib-metadata==3.4.0
 importlib-resources==3.0.0
 ipykernel==5.4.3
-ipython==7.16.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 jedi==0.18.0
