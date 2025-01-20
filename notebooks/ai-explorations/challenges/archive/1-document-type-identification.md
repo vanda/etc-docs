@@ -1,12 +1,22 @@
-# 9. Pose Detection
+# 1. Document Type Identification
 
 ## Problem
 
-### Problem Statement
+**Problem Statement**
 
-Identify the poses taken by people in an digial image of a cultural heritage object 
+Identify the type of document from its contents.
 
-### Background
+## Bibliography
+
+### Cultural Heritage
+
+#### 2018
+
+
+#### 2017
+
+#### 2016
+
 
 ## Solutions
 
@@ -23,17 +33,7 @@ given on the V&A dataset, or links to the worked code+data for the original work
 
 ## Variations
 
-### Major Variations 
+### Major Variations
 
 ### Minor Variations
-
-## Bibliography
-
-### Cultural Heritage
-
-#### 2022
-
-  * Allam, S. E. (2022) Classifying Poses throughout Art History with Transfer Learning. bachelor. Available at: https://fse.studenttheses.ub.rug.nl/26673/ (Accessed: 28 September 2024).
-
-### General
 

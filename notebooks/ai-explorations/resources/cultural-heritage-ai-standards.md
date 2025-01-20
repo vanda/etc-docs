@@ -1,4 +1,4 @@
-# Cultural Heritage Ai Standards
+# Cultural Heritage AI Standards
 
 ## File Formats
 

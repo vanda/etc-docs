@@ -3,6 +3,7 @@ developers-site/dist/
 developers-site/site/data/webpack.json
 api-book/api-book/_build/**
 notebooks/data-explorations/_build/**
+notebooks/ai-explorations/_build/**
 *~
 *.swp
 **/.ipynb_checkpoints/**

@@ -1,14 +1,12 @@
-# 16. Image Retrieval for Cultural Heritage Objects (pixel-level)
+# 2. Image Retrieval for Cultural Heritage Objects (pixel-level)
 
 ## Problem
 
-### Problem Statement
+**Problem Statement**
 
-Retrieve similiar images of cultural heritage objects based on the similiarity of a sub-set of the image
+Retrieve related images of cultural heritage objects from a source image based on the similiarity of a region of the image.
 
-### Background
-
-### Related Problems
+## Bibliography
 
 ## Solutions
 
@@ -23,4 +21,3 @@ given on the V&A dataset, or links to the worked code+data for the original work
 
 ### Minor Variations
 
-## Bibliography

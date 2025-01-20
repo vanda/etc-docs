@@ -1,30 +1,33 @@
-# 1. Image Registration
+# 2. Text Translation
 
 ## Problem
 
-Perfectly align digital images taken of an cultural heritage object using different imaging techniques
+**Problem Statement**
 
-## AI Solutions
+Translate the text content of a document into another language.
+
+## Bibliography
+
+### Cultural Heritage
+
+### General
+
+## Solutions
 
 ### Sample Implementation
 
 ### Leading Implementations
 
-### Implementation Tracking
+### Tracking Implementations
 
 Tracking authors implementing an approach to solve the problem. In some cases a worked example is
 given on the V&A dataset, or links to the worked code+data for the original work.
 
 | Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
 
-## Problem Variations (Major)
+## Variations
 
+### Major Variations
 
-## Problem Variations (Minor)
+### Minor Variations
 
-
-## Related 
-
-## Bibliography
-
-### 2018

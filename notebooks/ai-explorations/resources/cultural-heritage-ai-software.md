@@ -2,9 +2,10 @@
 
 ## General
 
-### Deep Learning Neural Network Model Training
+### Deep Learning Model Libraries
 
   * Tensorflow
   * PyTorch
+  * Keras
 
 ## Cultural Heritage Specific

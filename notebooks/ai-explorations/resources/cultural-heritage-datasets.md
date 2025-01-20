@@ -27,13 +27,21 @@ AlexNet
 
   * SemArt Dataset - Garcia, N. and Vogiatzis, G. (2018) ‘How to Read Paintings: Semantic Art Understanding with Multi-Modal Retrieval’, in. Proceedings of the European Conference on Computer Vision (ECCV) Workshops, pp. 0–0. Available at: https://openaccess.thecvf.com/content_eccv_2018_workshops/w13/html/Garcia_How_to_Read_Paintings_Semantic_Art_Understanding_with_Multi-Modal_Retrieval_ECCVW_2018_paper.html (Accessed: 7 September 2024).
 
+## Image Datasets
+
+### 2022
+
+  * Reshetnikov, A., Marinescu, M.-C. and Lopez, J.M. (2022) ‘DEArt: Dataset of European Art’. arXiv. Available at: https://doi.org/10.48550/arXiv.2211.01226.
+
+### 2020
+
+  * Posthumus, E. (2020) ‘Iconclass AI Test Set’. Available at: https://iconclass.org/testset/ (Accessed: 8 September 2024).
+
 
 ## Image Labeled Dataset
 | Name | Date | Description | Size (Images) | Size (Labels) | Object Classes | Notes | URL |
 Microsoft COCO - Common Objects in Common | 2014-2015| "COCO is a large-scale object detection, segmentation, and captioning dataset. COCO has several features" | 330k | >200k | 91 | | https://cocodataset.org/#home |
 
 
+
   * Deng, J. et al. (2009) ‘ImageNet: A large-scale hierarchical image database’, in 2009 IEEE Conference on Computer Vision and Pattern Recognition. 2009 IEEE Conference on Computer Vision and Pattern Recognition, pp. 248–255. Available at: https://doi.org/10.1109/CVPR.2009.5206848.
-
-  * Posthumus, E. (2020) ‘Iconclass AI Test Set’. Available at: https://iconclass.org/testset/ (Accessed: 8 September 2024).
-

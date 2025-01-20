@@ -1,10 +1,16 @@
-# 1. Image Registration
+# 7. Image Registration
 
 ## Problem
 
-Perfectly align digital images taken of an cultural heritage object using different imaging techniques
+**Problem Statement**
 
-## AI Solutions
+Align different images of a cultural heritage object as closely as possible.
+
+## Bibliography
+
+### Cultural Heritage
+
+## Solutions
 
 ### Sample Implementation
 
@@ -17,14 +23,9 @@ given on the V&A dataset, or links to the worked code+data for the original work
 
 | Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
 
-## Problem Variations (Major)
+## Variations
 
+### Major Variations
 
-## Problem Variations (Minor)
+### Minor Variations
 
-
-## Related 
-
-## Bibliography
-
-### 2018

@@ -11,30 +11,26 @@ root: intro
 # validating consistency of facts - AI ?
 # images search
 parts:
- - caption: Image Based Challenges
+ - caption: Resources
    numbered: False
    chapters:
-   - file: challenges/image/1-fg-bg-seperation
-     title: 1. FG/BG Seperation
-   - file: challenges/image/2-image-classification
-     title: 2. Image Classification
-   - file: challenges/image/3-image-labelling
-     title: 3. Image Labelling
-   - file: challenges/image/4-image-caption
-     title: 4. Image Caption/Title
-   - file: challenges/image/5-image-description
-     title: 5. Image Description 
-   - file: challenges/image/6-object-detection
-     title: 6. Object Detection
-   - file: challenges/image/7-object-classification
-     title: 7. Object Classification
-   - file: challenges/image/8-visual-relationship-objects
-     title: 8. Visual Relationship
-   - file: challenges/image/9-pose-detection
-     title: 9. Pose Detection
-   - file: challenges/image/10-image-registration
-     title: 10. Image Registration
- - caption: Museum Cataloguing Challenges
+   - file: resources/cultural-heritage-ai-news.md
+     title: News
+   - file: resources/cultural-heritage-ai-projects.md
+     title: Projects
+   - file: resources/cultural-heritage-ai-reports.md
+     title: Reports/Surveys
+#   - file: resources/cultural-heritage-ai-artists.md
+#     title: Artist Focus
+#   - file: resources/cultural-heritage-ai-object-types.md
+#     title: Object Types Focus
+   - file: resources/cultural-heritage-ai-research-papers.md
+     title: Overview/Survey Papers
+   - file: resources/cultural-heritage-ai-community.md
+     title: Community 
+#   - file: resources/cultural-heritage-ai-glossary.md
+#     title: Glossary
+ - caption: Object Record Challenges
    numbered: False
    chapters:  
    - file: challenges/museum/1-style-genre-classification
@@ -49,46 +45,111 @@ parts:
      title: 5. Iconography Classification (image level)
    - file: challenges/museum/6-iconography-classification-pixel
      title: 6. Iconography Classification (pixel level)
-     # cultural heritage object summary description
- - caption: Text Challenges
+   - file: challenges/museum/7-object-image-classification
+     title: 7. Object Image Classification
+   - file: challenges/museum/8-object-image-labelling
+     title: 8. Object Image Labelling
+   - file: challenges/museum/9-object-image-captioning
+     title: 9. Object Image Captioning
+   - file: challenges/museum/10-object-image-description
+     title: 10. Object Image Description
+ - caption: Library Record Challenges
+   numbered: False
+   chapters:  
+   - file: challenges/library/1-subject-classification
+     title: 1. Subject Classification
+   - file: challenges/library/2-title-translation
+     title: 2. Title Translation
+   - file: challenges/library/3-time-period-classification
+     title: 3. Time Period Classification
+ - caption: Archive Record Challenges
+   numbered: False
+   chapters:  
+   - file: challenges/archive/1-document-type-identification
+     title: 1. Document Type Identification 
+   - file: challenges/archive/2-document-author-identification
+     title: 2. Document Author Identification 
+   - file: challenges/archive/3-document-outlier-detection
+     title: 3. Document Outlier Detection 
+ - caption: Image Challenges
+   numbered: False
+   chapters:
+   - file: challenges/image/1-image-segmentation
+     title: 1. Image Segmentation
+   - file: challenges/image/2-object-detection
+     title: 2. Object Detection
+   - file: challenges/image/3-object-classification-class 
+     title: 3. Object Classification (Object Class)
+   - file: challenges/image/4-object-classification-instance
+     title: 4. Object Classification (Object Instance)
+   - file: challenges/image/5-visual-relationship-objects
+     title: 5. Visual Relationship
+   - file: challenges/image/6-pose-expression-detection
+     title: 6. Pose Detection
+   - file: challenges/image/7-image-registration
+     title: 7. Image Registration
+ - caption: Textual Content Challenges
    chapters:
    - file: challenges/text/1-ocr-htr-text-content
      title: 1. OCR/HTR for Textual Content
-   - file: challenges/text/2-author-identification
-     title: 2. Author Identification
+   - file: challenges/text/2-text-translation
+     title: 2. Text Translation
+   - file: challenges/text/3-entity-recognition
+     title: 3. Entity Recognition
+   - file: challenges/text/4-text-reuse-patterns
+     title: 4. Text Reuse Patterns
+   - file: challenges/text/5-structured-information-extraction
+     title: 5. Structured Information Extraction
      # layout recognition
      # segmentation
-     # structured text retrieval
-     # entity recognition
      # entity linking
-     # abstract/descriotion generation
-# - caption: Archive Challenges
-#    chapters:
      # document classification
      # contextual/technical metadata
      # outlier detection (e.g. wrongly catalogued document)
      #
-# - caption: Library Challenges
-#    chapters: 
-     # subject classification
  #- caption: Media Challenges
  # speech-to-text
  # object-recognition
- - caption: Conservation Challanges
-   chapters:
-   - file: challenges/conservation/1-image-registration
-     title: 1. Image Registration
-   - file: challenges/conservation/2-condition-assessment
-     title: 2. Condition Assessment
  - caption: Discovery Challenges
    chapters:
    - file: challenges/discovery/1-image-retrieval-cultural-objects
-     title: 1. Image Retrieval (image level)
+     title: 1. Image Retrieval (image level query)
    - file: challenges/discovery/2-image-retrieval-patterns
-     title: 2. Image Retrieval (pixel level)
-   - file: challenges/discovery/3-terminology-retrieval
-     title: 3. Terminology Retrieval (terminology)
-   - file: challenges/discovery/4-knowledge-query
-     title: 4. Knowledge Query
+     title: 2. Image Retrieval (pixel level query)
+   - file: challenges/discovery/3-image-retrieval-query
+     title: 3. Image Retrieval (text query)
+   - file: challenges/discovery/4-knowledge-query-collection
+     title: 4. Knowledge Query (Collection)
+   - file: challenges/discovery/4-knowledge-query-object
+     title: 5. Knowledge Query (Object)
+   - file: challenges/discovery/6-cross-cultural-retrieval
+     title: 6. Cross Cultural Retrieval
+   - file: challenges/discovery/7-object-recommender
+     title: 7. Object Recommender
      # chatbot aided search
      # search context semantic understanding (i.e. retrieve relevant results with use of correct search term)
+# - caption: Terminology Challenges
+#   numbered: False
+#   chapters:  
+#   - file: challenges/terminology/1-terminology-retrieval
+#     title: 1. Terminology Retrieval
+ - caption: Visitation Challenges
+   chapters:
+   - file: challenges/visitors/1-visitor-numbers
+     title: Visitor Numbers
+   - file: challenges/visitors/2-visitor-behaviour
+     title: Visitor Behaviour
+#  - caption: Operational Challenges
+#    chapters:
+#    - file: challenges/operational/1-
+#      title: 
+#  - caption:  Challenges
+#    chapters:
+##    - file: challenges/operational/1-
+##      title: 
+# - caption: Conservation Challenges
+#   chapters:
+#   - file: challenges/conservation/1-image-registration
+#     title: 1. Image Registration
+#   - file: challenges/conservation/2-condition-assessment
+#     title: 2. Condition Assessment

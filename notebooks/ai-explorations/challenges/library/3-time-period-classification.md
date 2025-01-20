@@ -1,10 +1,10 @@
-# 1. OCR/HTR 
+# 3. Time Period Classification
 
 ## Problem
 
 **Problem Statement**
 
-Extract printed or handwritten text from an image using OCR/HTR techniques.
+Identify the time period(s) for a bibliographic item from its text.
 
 ## Bibliography
 
@@ -12,9 +12,8 @@ Extract printed or handwritten text from an image using OCR/HTR techniques.
 
 #### 2024
 
-  * AlKendi, W. et al. (2024) ‘Advancements and Challenges in Handwritten Text Recognition: A Comprehensive Survey’, Journal of Imaging, 10(1), p. 18. Available at: https://doi.org/10.3390/jimaging10010018.
+  * Westin, F. (2024) ‘Time Period Categorization in Fiction: A Comparative Analysis of Machine Learning Techniques’, Cataloging & Classification Quarterly, 62(2), pp. 124–153. Available at: https://doi.org/10.1080/01639374.2024.2315548.
 
-### General
 
 ## Solutions
 
@@ -22,7 +21,7 @@ Extract printed or handwritten text from an image using OCR/HTR techniques.
 
 ### Leading Implementations
 
-### Tracking Implementations
+### Implementation Tracking
 
 Tracking authors implementing an approach to solve the problem. In some cases a worked example is
 given on the V&A dataset, or links to the worked code+data for the original work.
@@ -32,8 +31,6 @@ given on the V&A dataset, or links to the worked code+data for the original work
 ## Variations
 
 ### Major Variations
-
-  * 11/A - Improve OCR/HTR output with the use of LLM
 
 ### Minor Variations
 

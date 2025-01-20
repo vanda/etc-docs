@@ -1,10 +1,14 @@
-# 1. Image Registration
+# 5. Visual Relationship between Objects
 
 ## Problem
 
-Perfectly align digital images taken of an cultural heritage object using different imaging techniques
+**Problem Statement**
 
-## AI Solutions
+Identify the relationships between parts of an image that contains "objects" (e.g. a knight riding a horse).
+
+## Bibliography
+
+## Solutions
 
 ### Sample Implementation
 
@@ -17,14 +21,9 @@ given on the V&A dataset, or links to the worked code+data for the original work
 
 | Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
 
-## Problem Variations (Major)
+## Variations
 
+### Major Variations
 
-## Problem Variations (Minor)
+### Minor Variations
 
-
-## Related 
-
-## Bibliography
-
-### 2018

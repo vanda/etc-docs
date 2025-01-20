@@ -1,10 +1,22 @@
-# 1. Image Registration
+# 3. Document Outlier Detection
 
 ## Problem
 
-Perfectly align digital images taken of an cultural heritage object using different imaging techniques
+**Problem Statement**
 
-## AI Solutions
+Identify if a document has been incorrectly placed within a set of unrelated documents.
+
+## Bibliography
+
+### Cultural Heritage
+
+#### 2018
+
+#### 2017
+
+#### 2016
+
+## Solutions
 
 ### Sample Implementation
 
@@ -17,14 +29,9 @@ given on the V&A dataset, or links to the worked code+data for the original work
 
 | Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
 
-## Problem Variations (Major)
+## Variations
 
+### Major Variations
 
-## Problem Variations (Minor)
+### Minor Variations
 
-
-## Related 
-
-## Bibliography
-
-### 2018

@@ -1,13 +1,18 @@
-# 8. Visual Relationship between Objects
+# 3. Entity Recognition
 
 ## Problem
 
-### Problem Statement
+Also known as: Entity Linking
 
-Identify the relationships between parts of an image that contains "objects" (e.g. a knight riding a horse)
+**Problem Statement**
 
+Recognise the entities (people, places, organisations, etc) in some textual content. 
 
-### Background
+## Bibliography
+
+### Cultural Heritage
+
+### General
 
 ## Solutions
 
@@ -15,7 +20,7 @@ Identify the relationships between parts of an image that contains "objects" (e.
 
 ### Leading Implementations
 
-### Implementation Tracking
+### Tracking Implementations
 
 Tracking authors implementing an approach to solve the problem. In some cases a worked example is
 given on the V&A dataset, or links to the worked code+data for the original work.
@@ -28,4 +33,3 @@ given on the V&A dataset, or links to the worked code+data for the original work
 
 ### Minor Variations
 
-## Bibliography
