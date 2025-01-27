@@ -4,11 +4,17 @@
 
 **Problem Statement**
 
-Retrieve related images of cultural heritage objects from a source image matching on the whole image 
+Retrieve related images of cultural heritage objects from a source image of a cultural heritage object, matching on the whole image.
 
 ## Bibliography
 
 ### Cultural Heritage
+
+#### 2024
+
+  * Roald, M., Birkenes, M.B. and Johnsen, L.G.B. (2024) ‘Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection’. arXiv. Available at: https://doi.org/10.48550/arXiv.2410.14969.
+
+  * Arnold, T. and Tilton, L. (2024) ‘Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models’. arXiv. Available at: https://doi.org/10.48550/arXiv.2411.04663.
 
 #### 2023
 
@@ -27,27 +33,4 @@ Retrieve related images of cultural heritage objects from a source image matchin
 
   * Seidenari, L. et al. (2017) ‘Deep Artwork Detection and Retrieval for Automatic Context-Aware Audio Guides’, ACM Trans. Multimedia Comput. Commun. Appl., 13(3s), p. 35:1-35:21. Available at: https://doi.org/10.1145/3092832.
  
-
-## Solutions
-
-### Sample Implementation
-
-To be done
-
-### Leading Implementations
-
-To be done
-
-### Tracking Implementations
-
-Tracking authors implementing an approach to solve the problem. In some cases a worked example is
-given on the V&A dataset, or links to the worked code+data for the original work.
-
-| Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
-
-## Variations
-
-### Major Variations
-
-### Minor Variations
 

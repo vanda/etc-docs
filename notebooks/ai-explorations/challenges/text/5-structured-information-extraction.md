@@ -6,36 +6,20 @@
 
 Extract structured data (in some specified form) from some textual content.
 
-## Bibliography (Cultural Heritage)
+## Bibliography
+
+### Cultural Heritage
 
 ### 2024
 
-## Bibliography (General)
+### General
 
-## Relevant Datasets
+#### 2021
 
-## Relevant Models
+  * Aly, R. et al. (2021) ‘FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information’. arXiv. Available at: https://doi.org/10.48550/arXiv.2106.05707.
 
-## Solutions 
+## Tools
 
-### Sample Implementation
-
-### Leading Implementations
-
-This is a personal intepretation of results.
-
-| Date | Name | Model/Architecture | Training Dataset | Test Dataset | Origin | Strengths/Weakness | Notes |
-| | marginalia | Mistral/Llama | n/a | n/a | https://github.com/Pleias/marginalia | | Python library |
-
-### Implementation Tracking 
-
-### Test Datasets
-
-## Variations 
-
-### Major Variations
-
-### Minor Variations
-
-None at present
+| Tool/Library | Model/Architecture | Training Dataset | Test Dataset | Code | Notes |
+| marginalia | Mistral/Llama | n/a | n/a | https://github.com/Pleias/marginalia | | Python library |
 

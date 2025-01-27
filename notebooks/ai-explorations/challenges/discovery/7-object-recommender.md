@@ -4,31 +4,19 @@
 
 **Problem Statement**
 
-Retrieve objects of proposed interest to the user based on some external criteria (e.g. favourite books, films, plays, video games, TV shows, etc)
+Retrieve objects of potential interest to the user from a collection.
 
 ## Bibliography
 
 ### Cultural Heritage
 
-## AI Solutions
+#### 2023
 
-### Sample Implementation
+  * Trichopoulos, G. et al. (2023) ‘Large Language Models as Recommendation Systems in Museums’, Electronics, 12(18), p. 3829. Available at: https://doi.org/10.3390/electronics12183829.
 
-### Leading Implementations
+  * Li, J. and Bikakis, A. (2023) ‘Towards a Semantics-Based Recommendation System for Cultural Heritage Collections’, Applied Sciences, 13(15), p. 8907. Available at: https://doi.org/10.3390/app13158907.
 
-| Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
-| NotebookLM | Sep 2024 | | Gemini | | | Google | |
+#### 2021
 
-### Implementation Tracking
-
-Tracking authors or companies implementing an approach to solve the problem. In some cases a
-worked example is given on the V&A dataset, or links to the worked code+data for the original work.
-
-| Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
-
-## Variations 
-
-### Variations (Major)
-
-### Variations (Minor)
+  * Dutia, K. and Stack, J. (2021) ‘Heritage connector: A machine learning framework for building linked open data from museum collections’, Applied AI Letters, 2(2), p. e23. Available at: https://doi.org/10.1002/ail2.23.
 

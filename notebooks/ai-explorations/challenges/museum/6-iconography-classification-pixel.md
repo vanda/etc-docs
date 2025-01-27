@@ -1,4 +1,4 @@
-# 13. Iconography Classification (pixel level)
+# 6. Iconography Classification (pixel level)
 
 ## Problem
 
@@ -33,31 +33,13 @@ Identify iconographic figure(s) depicted on a cultural heritage object from a di
 
   *  Milani, Federico, and Piero Fraternali, ‘A Dataset and a Convolutional Model for Iconography Classification in Paintings’, J. Comput. Cult. Herit., 14.4 (2021), p. 46:1-46:18, doi:10.1145/3458885
 
-
 ### General
-
-To be done
-## Solutions
-
-### Sample Implementation
-
-Tracking authors implementing an approach to solve the problem. In some cases a worked example is
-given on the V&A dataset, or links to the worked code+data for the original work.
-
-### Leading Implementations
-
-### Implementation Tracking
-
-| Date | Paper/Project | Authors | Training Models| Training Datasets | Test Models: Testing Dataset(s) | Code | V&A Implemention | 
-| 2023 | Transfer Learning for the Visual Arts: The Multi-Model Retrieval of Iconclass Codes| Nikolay Banar, Walter Daelemans, Mike Kestemont | Faster R-CNN/ResNet-1010, BERT | | VGG16, Visual Genome | PyTorch custom implementation | Netherlands Institute for Art History, Rijksmuseum | (GitHub)[https://github.com/nikolay-banar/iconize] n/a |
 
 ## Variations
 
 ### Major Variations
 
-  * 11/A -
-
 ### Minor Variations
 
-  * 11/a - Create an image credit listing the iconographic figures identified in the image
+  * 6/a - Create an image credit listing the iconographic figures identified in the image
 

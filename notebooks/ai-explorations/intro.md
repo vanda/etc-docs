@@ -1,27 +1,22 @@
-# AI and Cultural Heritage Resources
+# AI and Cultural Heritage Research Resources
 
 This site is intended to keep track of developments in the application of
-Artificial Intelligence/Machine Learning to Cultural Heritage data, ideally
-those developments for which AI may have a positive benefit (but who can say).
+Artificial Intelligence/Machine Learning to cultural heritage data, ideally
+those developments for which ML may have some positive benefit. In particular
+for a set of challenges relating (primarily) to cataloguing and discovery in
+cultural heritage institutions. The challenges are divided as follows:
 
-In addition to trying to track general developments, we also tracking a set
-of challenges relating (primarily) to cataloguing and discovery for AI & Cultural 
-Heritage Institutions. The challenges are divided (somewhat, as it were, 
-artifically) between:
+  * Object record challenges - Pre-dominantly (but not solely) for museum object cataloguing 
+  * Library record challenges - Pre-dominantly for library cataloguing
+  * Archive record challenges - Pre-dominantly for archive cataloguing
+  * Image challenges - Use of images with image annotations to aid in cataloguing
+  * Textual challenges - Use of textual data (or images of textual data) with text as output
+  * Discovery challenges - Assisting in the discovery of cultural heritage objects 
+For the moment we are trying to track relevant work (journal articles, projects) to monitor performance with different techniques for each challenge. In the future
+we would like to start applying the techniques in each challenge to relevant test datasets to assist in their evaluation, in particular for our own art museum 
+needs but also for across the cultural heritage sector.
 
-  * Object Record Challenges - Problems that use various sources of input data (media, metadata) for cataloguing (pre-dominantly but not solely for museum object cataloguing)
-  * Library Record Challenges - Problems that use various sources of input data (media, metadata) for cataloguing (pre-dominantly but not solely for library cataloguing)
-  * Archive Record Challenges - Problems that use various sources of input data (media, metadata) for cataloguing (pre-dominantly but not solely for archive cataloguing)
-  * Image Challenges - Problems are mainly based on using an image as input data with images and/or image annotations as outputs
-  * Textual Challenges - Problems that use textual data (or images of textual data) as input with text as outputs
-  * Discovery Challenges - Problems that use various sources of input data (media, metadata, text) with cultural heritage objects records as outputs
-  
-For the moment we are just building up resources (journal articles, projects) to keep
-track of state of the art for each challenge. In the future we would like to start
-applying the different techniques to some of our own data to evaluate them applied
-to our collections.
-
-## Terminology Notes
+## Terminology 
 
 ### Object
 
@@ -33,4 +28,4 @@ There is further confusion in the cultural heritage domain between an image/medi
 
 ### Annotation
 
-The word "annotation" is used with so many slightly different meanings in both cultural heritage and image processing/machine learning that it is avoided here wherever possible. It is similiar situation with the word "collections" but it is unavoidable.
+The word "annotation" is used with so many slightly different meanings in both cultural heritage and image processing/machine learning that it is avoided here wherever possible. It is a similiar situation with the word "collections", but it is usually unavoidable as there isn't really any alternative.

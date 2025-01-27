@@ -8,7 +8,10 @@ Identify those parts of an image that contains depictions of known "objects" (li
 
 **Problem Background**
 
-A very common problem to find within an image some "thing". In some cases the "thing" is known in advance and is what is being looked for specifcally (e.g. find all guitars depicted in paintings), in others a class of things is looked for (e.g. find all musical instructments depicted in paintings), and in some no particlar "thing" is known and the challenge is to both detect and classifify. The later is handled in a seperate challenge (7)
+A very common problem to find within an image some "thing". In some cases the "thing" is known in advance and is what is being looked for specifically (e.g. find all guitars depicted in paintings), in others a class of things is looked for (e.g. find all musical instructments depicted in paintings), and in some no particlar "thing" is known and the challenge is to both detect and classifify. The later is handled seperately.
+
+It should be noted that in most cases object detection is also classification, 
+but there are some times where it is solely "detection".
 
 **Related** 
 
@@ -21,7 +24,17 @@ A very common problem to find within an image some "thing". In some cases the "t
 
 #### 2024
 
+  * Yemelianenko, T. et al. (2024) ‘An approach for dataset extension for object detection in artworks using open-vocabulary models’, in Proceedings of the European Conference on Computer Vision (ECCV) Workshops. Milan (Italie), Italy: ECCV. Available at: https://hal.science/hal-04820558 (Accessed: 25 January 2025).
+
+  * Ramos, P. et al. (2024) ‘No Annotations for Object Detection in Art through Stable Diffusion’. arXiv. Available at: https://doi.org/10.48550/arXiv.2412.06286.
+
+  * Meyer, L. et al. (2024) ‘Algorithmic Ways of Seeing: Using Object Detection to Facilitate Art Exploration’, in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. New York, NY, USA: Association for Computing Machinery (CHI ’24), pp. 1–18. Available at: https://doi.org/10.1145/3613904.3642157.
+
+  * Giardinetti, M. et al. (2024) ‘The EyCon Dataset: A Visual Corpus of Early Conflict Photography’, Journal of Open Humanities Data, 10(1). Available at: https://doi.org/10.5334/johd.213.
+
   * Zhao, Z. (2024) ‘Enhancing artistic analysis through deep learning: a graphic art element recognition model based on SSD and FPT’, PeerJ Computer Science, 10, p. e1761. Available at: https://doi.org/10.7717/peerj-cs.1761.
+
+  * Bengamra, S. et al. (2024) ‘A comprehensive survey on object detection in Visual Art: taxonomy and challenge’, Multimedia Tools and Applications, 83(5), p. 14637. Available at: https://doi.org/10.1007/s11042-023-15968-9.
 
 #### 2022
 
@@ -49,25 +62,4 @@ A very common problem to find within an image some "thing". In some cases the "t
 #### 2015
 
   * Agapito, L., Bronstein, M.M. and Rother, C. (eds) (2015) In Search of Art. Cham: Springer International Publishing (Lecture Notes in Computer Science). Available at: https://doi.org/10.1007/978-3-319-16178-5.
-
-## Solutions
-
-### Leading Approaches
-
-### Paper/Project Tracking
-
-Tracking authors implementing an approach to solve the problem. In some cases a worked example is
-given on the V&A dataset, or links to the worked code+data for the original work.
-
-| Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
-
-### Sample Implementation
-
-To be done
-
-## Variations
-
-### Major Variations
-
-### Minor Variations
 

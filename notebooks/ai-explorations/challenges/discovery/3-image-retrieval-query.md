@@ -10,6 +10,10 @@ Retrieve relevant cultural heritage objects images based on a textual prompt/que
 
 ### Cultural Heritage
 
+#### 2024
+
+  * Roald, M., Birkenes, M.B. and Johnsen, L.G.B. (2024) ‘Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway’s Digitised Book Collection’. arXiv. Available at: https://doi.org/10.48550/arXiv.2410.14969.
+
 #### 2022
 
   * Bobasheva, A., Gandon, F. and Precioso, F. (2022) ‘Learning and Reasoning for Cultural Metadata Quality: Coupling Symbolic AI and Machine Learning over a Semantic Web Knowledge Graph to Support Museum Curators in Improving the Quality of Cultural Metadata and Information Retrieval’, Journal on Computing and Cultural Heritage, 15(3), pp. 1–23. Available at: https://doi.org/10.1145/3485844.
@@ -25,17 +29,4 @@ Retrieve relevant cultural heritage objects images based on a textual prompt/que
 #### 2018
 
   * Garcia, N. and Vogiatzis, G. (2018) ‘How to Read Paintings: Semantic Art Understanding with Multi-Modal Retrieval’, in. Proceedings of the European Conference on Computer Vision (ECCV) Workshops, pp. 0–0. Available at: https://openaccess.thecvf.com/content_eccv_2018_workshops/w13/html/Garcia_How_to_Read_Paintings_Semantic_Art_Understanding_with_Multi-Modal_Retrieval_ECCVW_2018_paper.html (Accessed: 7 September 2024).
-
-## Solutions
-
-Tracking authors implementing an approach to solve the problem. In some cases a worked example is
-given on the V&A dataset, or links to the worked code+data for the original work.
-
-| Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
-
-## Variations
-
-### Major Variations
-
-### Minor Variations
 

@@ -18,9 +18,10 @@ A fairly obvious problem not specific to cultural heritage, to be able to genera
 
 For much research on this problem the following:
 
-  * 2-image-classification
-  * 3-image-labelling
-  * 4-image-caption
+  * Image classification
+  * Image labelling
+  * Image captioning
+  * Image descriptions
 
 are all considered the same issue, namely the generation of a certain length of text based on an image, and they vary only in the length of text generated.
 
@@ -39,51 +40,23 @@ Some researchers do explicitly focus on an area though, for example generating a
 
   * Cetinic, E. (2021) ‘Towards Generating and Evaluating Iconographic Image Captions of Artworks’, Journal of Imaging, 7(8), p. 123. Available at: https://doi.org/10.3390/jimaging7080123. [
 
+  * Martinez Pandiani, D.S. et al. (2023) ‘Hypericons for interpretability: decoding abstract concepts in visual data’, International Journal of Digital Humanities, 5(2–3), pp. 451–490. Available at: https://doi.org/10.1007/s42803-023-00077-8.
+
+
 #### 2021
 
   * Milani, Federico, and Piero Fraternali, ‘A Dataset and a Convolutional Model for Iconography Classification in Paintings’, J. Comput. Cult. Herit., 14.4 (2021), p. 46:1-46:18, doi:10.1145/3458885
 
 ### General
 
-## Solutions
-
-### Leading Approaches
-
-A personal view on those approaches to the challenge that seem to be achieving the greatest success. See X for a discussion on why this is not easy to declare a "winner".
-
-### Publication/Project Tracking
-
-An attempt to keep track of published approaches to this challenge indicating different approaches and architectures over time. Not attempting to be comprehensive but focused on innovations in approach and larger steps forward. See X for a discussion on why it is not easy to rank approaches.
-
-### Sample Implementation
-
 ## Variations
 
 ### Major Variations
 
-  * 3/A - Restrict labelling to that within a particular domain (materials, techniques, place, etc)
-  * 3/B - Restrict labelling known to those within a particular domain vocabulary (AAT, TGN, Iconclass)
+  * 8/A - Restrict labelling to that within a particular domain (materials, techniques, place, etc)
+  * 8/B - Restrict labelling known to those within a particular domain vocabulary (AAT, TGN, Iconclass)
 
 ### Minor Variations
 
-  * 3/a - Output the labels in multiple languages
-
-### Type Specific Variations
-
-  * 3/1 - Painting Specific keywords
-    
-## Linkages
-
-  * Keywords can then be used as part of with image classification, retrieval,
-  * Keywords can be the base of 
-
-## Projects & Tools
-
-### Cultural Heritage
-
-To be done
-
-### General
-
-To be done
+  * 8/a - Output the labels in multiple languages
 

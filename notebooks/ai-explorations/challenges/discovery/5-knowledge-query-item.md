@@ -12,6 +12,10 @@ Provide a conversational interface for the information available for a single cu
 
 ### Cultural Heritage
 
+#### 2024
+
+  * Rachabatuni, P.K. et al. (2024) ‘Context-aware chatbot using MLLMs for Cultural Heritage’, in Proceedings of the ACM Multimedia Systems Conference 2024 on ZZZ. MMSys ’24: ACM Multimedia Systems Conference 2024, Bari Italy: ACM, pp. 459–463. Available at: https://doi.org/10.1145/3625468.3652193.
+
 #### 2023
 
   * Bongini, P., Becattini, F. and Del Bimbo, A. (2023) ‘Is GPT-3 All You Need for Visual Question Answering in Cultural Heritage?’, in L. Karlinsky, T. Michaeli, and K. Nishino (eds) Computer Vision – ECCV 2022 Workshops. Cham: Springer Nature Switzerland, pp. 268–281. Available at: https://doi.org/10.1007/978-3-031-25056-9_18.
@@ -33,26 +37,4 @@ Provide a conversational interface for the information available for a single cu
 #### 2018
 
   * Sabatelli, M. et al. (2018) ‘Deep Transfer Learning for Art Classification Problems’, in. Proceedings of the European Conference on Computer Vision (ECCV) Workshops, pp. 0–0. Available at: https://openaccess.thecvf.com/content_eccv_2018_workshops/w13/html/Sabatelli_Deep_Transfer_Learning_for_Art_Classification_Problems_ECCVW_2018_paper.html (Accessed: 8 September 2024).
-
-## Solutions
-
-### Sample Implementation
-
-### Leading Implementations
-
-| Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
-| NotebookLM | Sep 2024 | | Gemini | | | Google | |
-
-### Implementation Tracking
-
-Tracking authors or companies implementing an approach to solve the problem. In some cases a
-worked example is given on the V&A dataset, or links to the worked code+data for the original work.
-
-| Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
-
-## Variations 
-
-### Variations (Major)
-
-### Problem Variations (Minor)
 

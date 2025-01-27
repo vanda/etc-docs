@@ -8,22 +8,11 @@ Identify the relationships between parts of an image that contains "objects" (e.
 
 ## Bibliography
 
-## Solutions
+### Cultural Heritage
 
-### Sample Implementation
+### General
 
-### Leading Implementations
+#### 2017
 
-### Implementation Tracking
-
-Tracking authors implementing an approach to solve the problem. In some cases a worked example is
-given on the V&A dataset, or links to the worked code+data for the original work.
-
-| Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
-
-## Variations
-
-### Major Variations
-
-### Minor Variations
+  * Dai, B., Zhang, Y. and Lin, D. (2017) ‘Detecting Visual Relationships With Deep Relational Networks’, in. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3076–3086. Available at: https://openaccess.thecvf.com/content_cvpr_2017/html/Dai_Detecting_Visual_Relationships_CVPR_2017_paper.html (Accessed: 26 January 2025).
 

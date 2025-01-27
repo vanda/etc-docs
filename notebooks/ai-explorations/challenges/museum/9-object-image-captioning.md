@@ -14,9 +14,10 @@ A fairly obvious problem not specific to cultural heritage, to be able to genera
 
 For much research on this problem the following:
 
-  * 2-image-classification
-  * 3-image-labelling
-  * 4-image-caption
+  * Image classification
+  * Image labelling
+  * Image captioning
+  * Image descriptions
 
 are all considered the same issue, namely the generation of a certain length of text based on an image, and they vary only in the length of text generated.
 
@@ -54,45 +55,14 @@ Some researchers do explicitly focus on an area though, for example generating a
 
 
 ### General
-## Solutions
-
-### Sample Implementations
-
-### Leading Implementations
-
-### Implementation Tracking
-
-Tracking authors implementing an approach to solve the problem. In some cases a worked example is
-given on the V&A dataset, or links to the worked code+data for the original work.
-
-| Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
-| | 2021 | | VLM | | Iconclass AI Dataset | |
 
 ## Variations
 
 ### Major Variations
 
-  * 4M1 - Describe the cultural heritage object rather than the image - (e.g. a photo of a watercolour is described as a watercolour)
-  * 4M2 - Restrict keywords to those within a particular context (materials, techniques, place, etc)
-  * 4M2 - Restrict keywords known to those within a particular vocabulary (AAT, TGN, Iconclass)
-  * 4M4 - Combine 2M2 and 2M3
+  * 9/A - Provide a caption of the cultural heritage object rather than the digital image - (e.g. a digital image of a watercolour artwork is described as a watercolour)
 
 ### Minor Variations
 
-  * 2m1 - Output the keywords in multiple languages
-  * 2m2 - If the image contains people, assign names to them instead of just labelling them as people
-
-### Related Problems
-
-  * Caption
-
-## Projects 
-
-### Cultural Heritage
-
-To be done
-
-### General
-
-To be done
+  * 9/a - Output the caption in multiple languages
 

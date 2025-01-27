@@ -14,24 +14,9 @@ A common problem of finding and identifying objects in an images. In addition to
 
 ### Cultural Heritage
 
+#### 2021
+
+  * Ypsilantis, N.-A. et al. (2021) ‘The Met Dataset: Instance-level Recognition for Artworks’, in. Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). Available at: https://openreview.net/forum?id=fnuAjFL7MXy (Accessed: 27 August 2024).
+
 ### General
-
-## Solutions
-
-### Leading Approaches
-
-### Paper/Project Tracking
-
-Tracking authors implementing an approach to solve the problem. In some cases a worked example is
-given on the V&A dataset, or links to the worked code+data for the original work.
-
-| Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
-
-### Sample Implementation
-
-## Variations 
-
-### Major Variations 
-
-### Minor Variations
 

@@ -23,7 +23,6 @@ Identify any iconography figure(s) depicted on a cultural heritage object from a
   * Banari, N. (no date) ‘Applications of Artificial Intelligence for the Resource-Scarce Cultural Heritage Domain’.
 
 
-
 #### 2021
 
   * Pinciroli Vago, N.O. et al. (2021) ‘Comparing CAM Algorithms for the Identification of Salient Image Features in Iconography Artwork Analysis’, Journal of Imaging, 7(7), p. 106. Available at: https://doi.org/10.3390/jimaging7070106.
@@ -33,32 +32,12 @@ Identify any iconography figure(s) depicted on a cultural heritage object from a
 ### General
 
 To be done
-## Solutions
-
-### Sample Implementation
-
-To follow
-
-### Leading Implementations
-
-To follow
-
-### Implementation Tracking
-
-Tracking authors implementing an approach to solve the problem, with links to code and a worked example where 
-available. In some cases a worked example is also given on a V&A dataset.
-
-| Date | Name/Paper | Authors | Training Models| Training Datasets | Test Models | Test Dataset(s) | Code | Example | V&A Implemention | 
-| 2023 | Transfer Learning for the Visual Arts: The Multi-Model Retrieval of Iconclass Codes| Nikolay Banar, Walter Daelemans, Mike Kestemont | Faster R-CNN/ResNet-1010, BERT | | Visual Genome | PyTorch custom implementation | Netherlands Institute for Art History, Rijksmuseum | n/a |
-| 2021 | A Dataset and a Convolutional Model for Iconography Classification in Paintings | Milani, Federico, and Piero Fraternali | Resnet | ImageNet | | | 
 
 ## Variations
 
 ### Major Variations
 
-  * 11/A -
-
 ### Minor Variations
 
-  * 11/a - Create a image credit incorporating the iconograpy discovered in the digital image
+  * 5/a - Create the image credit incorporating iconography found in the digital image of the cultural heritage object.
 

@@ -14,13 +14,14 @@ An obvious issue not specific to cultural heritage, to generate some classificat
 
 For much research on this problem the following:
 
-  * 2-image-classification
-  * 3-image-labelling
-  * 4-image-caption
+  * Image classification
+  * Image labelling
+  * Image captioning
+  * Image descriptions
 
 are all considered the same issue, namely the generation of a certain length of text based on an image of a cultural heritage object, and they vary only in the length of text generated.
 
-Some AI researchers do explictily focus on one area, for example generating a full multi paragraph description as opposed to a single sentence caption or generating a grammatically correct sentence (aka a caption) instead of a sentence formed of a series of classes (labelling) i.e. "An etching depicting Hercules fighting centaurs" rather than "etching, centaurs, Hercules". It is not always clear in research papers though if the same meaning is always been taken - for some researchers "etching, centaurs, hercules" is considered a caption. For the related challenges here they are treated differently to allow to disinguish in qualitity of results, for example for the same object:
+Some researchers do explictily focus on one area, for example generating a full multi-paragraph description as opposed to a single sentence caption or generating a grammatically correct sentence (aka a caption) instead of a sentence formed of a series of classes (labelling) i.e. "An etching depicting Hercules fighting centaurs" rather than "etching, centaurs, Hercules". It is not always clear in research papers though if the same defintions are being used - for some researchers "etching, centaurs, hercules" is considered a caption not just a set of classes/labels. For the related challenges here they are treated differently (as much as possible) to disinguish the qualitity of results, for example for the same object:
 
   * Image classification - etching
   * Image labelling/keywords - etching, centaurs, Hercules
@@ -31,6 +32,15 @@ Some AI researchers do explictily focus on one area, for example generating a fu
 
 ### Cultural Heritage
 
+#### 2024
+
+  * Maksimova, E. et al. (2024) ‘Viability of Zero-shot Classification and Search of Historical Photos’, in. CHR 2024: Computational Humanities Research Conference. Available at: https://ceur-ws.org/Vol-3834/paper20.pdf (Accessed: 25 January 2025).
+
+#### 2023
+
+  * Martinez Pandiani, D.S. et al. (2023) ‘Hypericons for interpretability: decoding abstract concepts in visual data’, International Journal of Digital Humanities, 5(2–3), pp. 451–490. Available at: https://doi.org/10.1007/s42803-023-00077-8.
+
+
 #### 2021
 
   * Milani, Federico, and Piero Fraternali, ‘A Dataset and a Convolutional Model for Iconography Classification in Paintings’, J. Comput. Cult. Herit., 14.4 (2021), p. 46:1-46:18, doi:10.1145/3458885
@@ -38,39 +48,13 @@ Some AI researchers do explictily focus on one area, for example generating a fu
 
 ### General
 
-## Solutions 
-
-### Leading Approaches
-
-To be done
-
-### Publication/Project Tracking 
-
-To be done
-
-### Sample implementation
-
-To be done
-
 ## Variations
 
 ### Major Variations
 
-  * 2/A - Restrict classification results known to those within a particular vocabulary (AAT, TGN, Iconclass, etc)
+  * 7/A - Restrict classification results known to those within a particular vocabulary (AAT, TGN, Iconclass, etc)
 
 ### Minor Variations
 
-  * 2/a - Output classification results in multiple languages
-
-### Type Specific Variations
-
-## Problem Resources
-
-### Datasets
-
-### Projects 
-
-#### Cultural Heritage
-
-#### General
+  * 7/a - Output classification results in multiple languages
 

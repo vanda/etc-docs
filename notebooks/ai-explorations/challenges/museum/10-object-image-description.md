@@ -1,4 +1,4 @@
-# 5. Object Image Description
+# 10. Object Image Description
 
 ## Problem 
 
@@ -10,9 +10,10 @@ Generate a description of a cultural heritage object from a digital image varyin
 
 For much research on this problem the following:
 
-  * 7 Object image classification
-  * 8 Object image labelling
-  * 9 Object image caption
+  * Image classification
+  * Image labelling
+  * Image captioning
+  * Image descriptions
 
 are all considered the same issue, namely the generation of a certain length of text based on an image, and they vary only in the length of text generated.
 
@@ -41,33 +42,10 @@ Some researchers do explictily focus on one area though, for example generating 
   * Cetinic, Eva, ‘Towards Generating and Evaluating Iconographic Image Captions of Artworks’, Journal of Imaging, 7.8 (2021), p. 123, doi:10.3390/jimaging7080123
   * Milani, Federico, and Piero Fraternali, ‘A Dataset and a Convolutional Model for Iconography Classification in Paintings’, J. Comput. Cult. Herit., 14.4 (2021), p. 46:1-46:18, doi:10.1145/3458885
 
-## Solutions
-
-### Leading Approaches
-
-### Publication/Project Tracking
-
-### Sample Implementation
-
-To be done
-
 ## Variations
 
 ### Major Variations
 
-  * 2/A - Describe the cultural heritage object rather than the image - (e.g. a photo of a watercolour is described as a watercolour instead of just the contents)
-  * 2/B - Restrict keywords to those within a particular context (materials, techniques, place, etc)
-  * 2/C - Restrict keywords known to those within a particular vocabulary (AAT, TGN, Iconclass)
-  * 2/D - Combine 2M2 and 2M3
+  * 10/A - Describe the cultural heritage object rather than the image - (e.g. a digital image of a watercolour artwork is described as a watercolour, instead of just the contents of a digital image)
 
 ### Minor Variations
-
-  * 2/1 - Output the keywords in multiple languages
-  * 2/2 - if the image contains people, give names to them
-
-## Resources
-
-### Projects 
-
-#### Cultural Heritage
-

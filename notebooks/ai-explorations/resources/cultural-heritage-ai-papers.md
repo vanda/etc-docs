@@ -1,16 +1,22 @@
-# Cultural Heritage and AI Research Overview Papers & Thesis
+# Cultural Heritage and AI Research Overview Papers and Reports
 
-A selection of overview/survey research papers or thesis on AI and cultural heritage, of use for introduction into areas of research.
+A selection of overview/survey research papers/reports/thesis on AI and cultural heritage, of use for an introduction into areas of research.
 
-(N.B. Only open access papers listed)
-
-See also Research Projects (which may overlap)
+(N.B. Mainly open access papers listed)
 
 ## Cultural Heritage & AI
 
 ### 2024
 
+  * Gîrbacia, F. (2024) ‘An Analysis of Research Trends for Using Artificial Intelligence in Cultural Heritage’, Electronics, 13(18), p. 3738. Available at: https://doi.org/10.3390/electronics13183738.
+
+  * Li, J. et al. (2024) ‘A systematic review of digital transformation technologies in museum exhibition’, Computers in Human Behavior, 161, p. 108407. Available at: https://doi.org/10.1016/j.chb.2024.108407.
+
+  * Shinde, G. et al. (2024) ‘AI in Archival Science -- A Systematic Review’. arXiv. Available at: https://doi.org/10.48550/arXiv.2410.09086.
+
   * Furferi, R. et al. (2024) ‘Enhancing traditional museum fruition: current state and emerging tendencies’, Heritage Science, 12(1), p. 20. Available at: https://doi.org/10.1186/s40494-024-01139-y.
+
+  * [not open access] - Bengamra, S. et al. (2024) ‘A comprehensive survey on object detection in Visual Art: taxonomy and challenge’, Multimedia Tools and Applications, 83(5), p. 14637. Available at: https://doi.org/10.1007/s11042-023-15968-9.
 
   * [not open access] - Towarek, A. et al. (2024) ‘Machine learning in analytical chemistry for cultural heritage: A comprehensive review’, Journal of Cultural Heritage, 70, pp. 64–70. Available at: https://doi.org/10.1016/j.culher.2024.08.014.
 
@@ -18,6 +24,9 @@ See also Research Projects (which may overlap)
 
   * Wu, M. et al. (2023) ‘Automated metadata annotation: What is and is not possible with machine learning’, Data Intelligence, 5(1), pp. 122–138. Available at: https://doi.org/10.1162/dint_a_00162.
   * Stefanini, M. et al. (2023) ‘From Show to Tell: A Survey on Deep Learning-Based Image Captioning’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(1), pp. 539–559. Available at: https://doi.org/10.1109/TPAMI.2022.3148210.
+
+  * Sommerschield, T. et al. (2023) ‘Machine Learning for Ancient Languages: A Survey’, Computational Linguistics, 49(3), pp. 703–747. Available at: https://doi.org/10.1162/coli_a_00481.
+
 
 
 ### 2022

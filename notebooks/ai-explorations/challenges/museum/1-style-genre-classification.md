@@ -67,38 +67,3 @@ An additional complication in much of the research on AI and Cultural Heritage i
 
   * Tan, W.R. et al. (2016) ‘Ceci n’est pas une pipe: A deep convolutional network for fine-art paintings classification’, in 2016 IEEE International Conference on Image Processing (ICIP). 2016 IEEE International Conference on Image Processing (ICIP), pp. 3703–3707. Available at: https://doi.org/10.1109/ICIP.2016.7533051.
 
-### Solutions
-
-#### Leading Approaches
-
-#### Publication/Product Tracking
-
-Tracking authors implementing an approach to solve the problem. In some cases a worked example is
-given on the V&A dataset, or links to the worked code+data for the original work.
-
-| Name | Date | Description | Model Type | Model | Dataset | Author(s) | Notebook | 
-
-#### Sample Implementation
-
-To be done
-
-### Variations
-
-#### Major Variations
-
-  * 11/A - Improve OCR/HTR output with the use of LLM
-
-#### Minor Variations
-
-To be done
-
-### Resources
-
-#### Datasets
-
-#### Projects 
-
-##### Cultural Heritage
-
-##### General
-

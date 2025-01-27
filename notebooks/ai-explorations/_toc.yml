@@ -14,20 +14,20 @@ parts:
  - caption: Resources
    numbered: False
    chapters:
+   - file: resources/cultural-heritage-ai-papers.md
+     title: Research Overview
+#   - file: resources/cultural-heritage-ai-object-types.md
+#     title: Object Types
    - file: resources/cultural-heritage-ai-news.md
-     title: News
-   - file: resources/cultural-heritage-ai-projects.md
-     title: Projects
-   - file: resources/cultural-heritage-ai-reports.md
-     title: Reports/Surveys
+     title: Announcements
+#   - file: resources/cultural-heritage-ai-community.md
+#     title: Community 
+#   - file: resources/cultural-heritage-ai-projects.md
+#     title: Projects
+#   - file: resources/cultural-heritage-ai-reports.md
+#     title: Reports
 #   - file: resources/cultural-heritage-ai-artists.md
 #     title: Artist Focus
-#   - file: resources/cultural-heritage-ai-object-types.md
-#     title: Object Types Focus
-   - file: resources/cultural-heritage-ai-research-papers.md
-     title: Overview/Survey Papers
-   - file: resources/cultural-heritage-ai-community.md
-     title: Community 
 #   - file: resources/cultural-heritage-ai-glossary.md
 #     title: Glossary
  - caption: Object Record Challenges
@@ -67,10 +67,30 @@ parts:
    chapters:  
    - file: challenges/archive/1-document-type-identification
      title: 1. Document Type Identification 
-   - file: challenges/archive/2-document-author-identification
-     title: 2. Document Author Identification 
-   - file: challenges/archive/3-document-outlier-detection
-     title: 3. Document Outlier Detection 
+   - file: challenges/archive/2-document-outlier-detection
+     title: 2. Document Outlier Detection 
+   - file: challenges/archive/3-document-illustration-detection
+     title: 3. Document Illustration Detection 
+ - caption: Discovery Challenges
+   chapters:
+   - file: challenges/discovery/1-image-retrieval-cultural-objects
+     title: 1. Image Retrieval (image level query)
+   - file: challenges/discovery/2-image-retrieval-patterns
+     title: 2. Image Retrieval (pixel level query)
+   - file: challenges/discovery/3-image-retrieval-query
+     title: 3. Image Retrieval (text query)
+   - file: challenges/discovery/4-knowledge-query-collection
+     title: 4. Knowledge Query (Collection level)
+   - file: challenges/discovery/5-knowledge-query-item
+     title: 5. Knowledge Query (Item level)
+   - file: challenges/discovery/6-cross-cultural-retrieval
+     title: 6. Cross Cultural Retrieval
+   - file: challenges/discovery/7-object-recommender
+     title: 7. Object Recommender
+   - file: challenges/discovery/8-cross-collection-linking
+     title: 8. Cross Collection Linking
+     # chatbot aided search
+     # search context semantic understanding (i.e. retrieve relevant results with use of correct search term)
  - caption: Image Challenges
    numbered: False
    chapters:
@@ -96,10 +116,20 @@ parts:
      title: 2. Text Translation
    - file: challenges/text/3-entity-recognition
      title: 3. Entity Recognition
-   - file: challenges/text/4-text-reuse-patterns
-     title: 4. Text Reuse Patterns
+   - file: challenges/text/4-text-alignment
+     title: 4. Text Alignment
    - file: challenges/text/5-structured-information-extraction
      title: 5. Structured Information Extraction
+   - file: challenges/text/6-event-extraction
+     title: 6. Event Extraction
+   - file: challenges/text/7-text-modernisation
+     title: 7. Text Modernisation
+   - file: challenges/text/8-text-restoration
+     title: 8. Text Restoration 
+   - file: challenges/text/9-relation-extration
+     title: 9. Relation Extration
+   - file: challenges/text/10-author-identification
+     title: 10. Author Identification 
      # layout recognition
      # segmentation
      # entity linking
@@ -110,24 +140,6 @@ parts:
  #- caption: Media Challenges
  # speech-to-text
  # object-recognition
- - caption: Discovery Challenges
-   chapters:
-   - file: challenges/discovery/1-image-retrieval-cultural-objects
-     title: 1. Image Retrieval (image level query)
-   - file: challenges/discovery/2-image-retrieval-patterns
-     title: 2. Image Retrieval (pixel level query)
-   - file: challenges/discovery/3-image-retrieval-query
-     title: 3. Image Retrieval (text query)
-   - file: challenges/discovery/4-knowledge-query-collection
-     title: 4. Knowledge Query (Collection)
-   - file: challenges/discovery/4-knowledge-query-object
-     title: 5. Knowledge Query (Object)
-   - file: challenges/discovery/6-cross-cultural-retrieval
-     title: 6. Cross Cultural Retrieval
-   - file: challenges/discovery/7-object-recommender
-     title: 7. Object Recommender
-     # chatbot aided search
-     # search context semantic understanding (i.e. retrieve relevant results with use of correct search term)
 # - caption: Terminology Challenges
 #   numbered: False
 #   chapters:  
