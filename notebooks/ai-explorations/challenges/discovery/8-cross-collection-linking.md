@@ -4,11 +4,15 @@
 
 **Problem Statement**
 
-Identify relevant related objects across multiple cultural heritage collections
+Identify relevant related cultural heritage objects held across multiple cultural heritage collections and catalogues.
 
 ## Bibliography
 
 ### Cultural Heritage
+
+#### 2024
+
+  * Blettery, E. and Gouet-Brunet, V. (2024) ‘Heritage Iconographic Content Structuring: from Automatic Linking to Visual Validation’, Journal on Computing and Cultural Heritage, 37(4), pp. 1–34. Available at: https://doi.org/10.1145/3666007.
 
 #### 2023
 

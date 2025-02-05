@@ -49,3 +49,15 @@ Some researchers do explictily focus on one area though, for example generating 
   * 10/A - Describe the cultural heritage object rather than the image - (e.g. a digital image of a watercolour artwork is described as a watercolour, instead of just the contents of a digital image)
 
 ### Minor Variations
+
+## Evaluations
+
+### Cultural Heritage
+
+#### 2025
+
+  * Te Papa - [Gen AI collection descriptions – is it a pass?](https://blog.tepapa.govt.nz/2025/01/24/gen-ai-collection-descriptions-is-it-a-pass/)
+
+
+
+

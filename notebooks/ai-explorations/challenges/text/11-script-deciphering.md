@@ -4,7 +4,7 @@
 
 **Problem Statement**
 
-Identify and/or cecipher the script used in some written material.
+Identify and/or decipher the script used in some written material.
 
 ## Bibliography
 

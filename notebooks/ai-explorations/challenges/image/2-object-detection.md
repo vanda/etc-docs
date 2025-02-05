@@ -24,6 +24,12 @@ but there are some times where it is solely "detection".
 
 #### 2024
 
+  * Kim, Y. et al. (2024) ‘Object Detection in Historical Images: Transfer Learning and Pseudo Labelling’, Journal on Computing and Cultural Heritage, 17(4), pp. 1–15. Available at: https://doi.org/10.1145/3699963.
+
+  * Khan, S. and Noord, N. van (2024) ‘Context-Infused Visual Grounding for Art’. arXiv. Available at: https://doi.org/10.48550/arXiv.2410.12369.
+
+  * Bekkouch, I.E.I. (2024) Auxiliary learning & Adversarial training for Medieval Manuscript Studies. phdthesis. Sorbonne Université. Available at: https://theses.hal.science/tel-04555309 (Accessed: 30 January 2025).
+
   * Yemelianenko, T. et al. (2024) ‘An approach for dataset extension for object detection in artworks using open-vocabulary models’, in Proceedings of the European Conference on Computer Vision (ECCV) Workshops. Milan (Italie), Italy: ECCV. Available at: https://hal.science/hal-04820558 (Accessed: 25 January 2025).
 
   * Ramos, P. et al. (2024) ‘No Annotations for Object Detection in Art through Stable Diffusion’. arXiv. Available at: https://doi.org/10.48550/arXiv.2412.06286.
@@ -36,7 +42,19 @@ but there are some times where it is solely "detection".
 
   * Bengamra, S. et al. (2024) ‘A comprehensive survey on object detection in Visual Art: taxonomy and challenge’, Multimedia Tools and Applications, 83(5), p. 14637. Available at: https://doi.org/10.1007/s11042-023-15968-9.
 
+#### 2023
+
+  * Madhu, P. (2023) Concepts to Computational Constructs: Advanced Scene Understanding for Heterogeneous Artworks Using Deep Learning. Friedrich-Alexander-Universitaet. Available at: https://open.fau.de/handle/openfau/23213 (Accessed: 3 February 2025).
+
+  * Aske, K. and Giardinetti, M. (2023) ‘(Mis)Matching Metadata: Improving Accessibility in Digital Visual Archives through the EyCon Project’, J. Comput. Cult. Herit., 16(4), p. 76:1-76:20. Available at: https://doi.org/10.1145/3594726.
+
+  * Vaigh, C.B.E., Clouzot, M. and Nicolle, C. (2023) ‘Towards A Hybrid Approach for Medieval Illuminations Analysis’, in 2023 17th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS). 2023 17th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS), pp. 78–85. Available at: https://doi.org/10.1109/SITIS61268.2023.00021.
+
+  * Ahmad, T. and Schich, M. (2023) ‘Toward cross-domain object detection in artwork images using improved YoloV5 and XGBoosting’, IET Image Processing, 17(8), pp. 2437–2449. Available at: https://doi.org/10.1049/ipr2.12806.
+
 #### 2022
+
+  * Ibrahim, B.I.E. et al. (2022) ‘Few-Shot Object Detection: Application to Medieval Musicological Studies’, Journal of Imaging, 8(2), p. 18. Available at: https://doi.org/10.3390/jimaging8020018.
 
   * Milani, F., Pinciroli Vago, N.O. and Fraternali, P. (2022) ‘Proposals Generation for Weakly Supervised Object Detection in Artwork Images’, Journal of Imaging, 8(8), p. 215. Available at: https://doi.org/10.3390/jimaging8080215.
 
@@ -61,5 +79,9 @@ but there are some times where it is solely "detection".
 
 #### 2015
 
+  * Hall, P. et al. (2015) ‘Cross-depiction problem: Recognition and synthesis of photographs and artwork’, Computational Visual Media, 1(2), pp. 91–103. Available at: https://doi.org/10.1007/s41095-015-0017-1.
+
   * Agapito, L., Bronstein, M.M. and Rother, C. (eds) (2015) In Search of Art. Cham: Springer International Publishing (Lecture Notes in Computer Science). Available at: https://doi.org/10.1007/978-3-319-16178-5.
+
+  * Crowley, E.J. and Zisserman, A. (2015) ‘In Search of Art’, in L. Agapito, M.M. Bronstein, and C. Rother (eds) Computer Vision - ECCV 2014 Workshops. Cham: Springer International Publishing, pp. 54–70. Available at: https://doi.org/10.1007/978-3-319-16178-5_4.
 

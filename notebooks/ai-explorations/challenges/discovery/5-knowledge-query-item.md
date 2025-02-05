@@ -1,4 +1,4 @@
-# 5. Knowledge Query (Record Level)
+# 5. Knowledge Query (Item level)
 
 ## Problem
 
@@ -6,7 +6,11 @@ Also known as Visual Question Answering
 
 **Problem Statement**
 
-Provide a conversational interface for the information available for a single cultural heritage object.
+Provide a conversational interface for the information available for a single cultural heritage item.
+
+**Related Problems**
+
+  * 4 - Knowledge Query (Collection level)
 
 ## Bibliography
 

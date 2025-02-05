@@ -1,14 +1,24 @@
-# 4. Knowledge Query (Collection Level)
+# 4. Knowledge Query (Collection level)
 
 ## Problem
+
+Also known as Visual Question Answering
 
 **Problem Statement**
 
 Provide a conversational interface to the information available for a whole cultural heritage collection.
 
+**Related Problems**
+
+  * Knowledge Query (Item level)
+
 ## Bibliography
 
 ### Cultural Heritage
+
+#### 2024
+
+  * Balauca, A.-A. et al. (2024) ‘Understanding the World’s Museums through Vision-Language Reasoning’. arXiv. Available at: https://doi.org/10.48550/arXiv.2412.01370.
 
 #### 2023
 

@@ -24,10 +24,16 @@ An additional complication in much of the research on AI and Cultural Heritage i
 
 ##### 2024
 
+  * Valencia, J. et al. (2024) ‘Using machine learning to predict artistic styles: an analysis of trends and the research agenda’, Artificial Intelligence Review, 57(5), p. 118. Available at: https://doi.org/10.1007/s10462-024-10727-0.
+
+  * Xiang, J., Yang, Y. and Bai, J. (2024) ‘Adaptive classification of artistic images using multi-scale convolutional neural networks’, PeerJ Computer Science, 10, p. e2336. Available at: https://doi.org/10.7717/peerj-cs.2336.
+
   * Chen, R., Aghdam, M.R.G. and Khishe, M. (2024) ‘Utilization of Artificial Intelligence for the automated recognition of fine arts’, PLOS ONE, 19(11), p. e0312739. Available at: https://doi.org/10.1371/journal.pone.0312739.
 
   * Yin, C.-Z. (2024) ‘A Unified Model for Style Classification and Emotional Response Analysis’, IEEE Access, 12, pp. 91770–91779. Available at: https://doi.org/10.1109/ACCESS.2024.3419851.
+
   * Fumanal-Idocin, J. et al. (2024) ‘ARTxAI: Explainable Artificial Intelligence Curates Deep Representation Learning for Artistic Images Using Fuzzy Techniques’, IEEE Transactions on Fuzzy Systems, 32(4), pp. 1915–1926. Available at: https://doi.org/10.1109/TFUZZ.2023.3337878.
+
   * Net, F. et al. (2024) ‘EUFCC-340K: A Faceted Hierarchical Dataset for Metadata Annotation in GLAM Collections’. arXiv. Available at: https://doi.org/10.48550/arXiv.2406.02380.
 
 ##### 2023

@@ -2,7 +2,7 @@
 
 ## Problem
 
-Also known as Textual patterns
+Also known as Textual patterns, text re-use
 
 **Problem Statement**
 
@@ -14,6 +14,8 @@ textual sources.
 ### Cultural Heritage
 
 #### 2023 
+
+  * Meinecke, C. (2023) Visual Analytics for the Exploratory Analysis and Labeling of Cultural Data. Leipzig University. Available at: https://nbn-resolving.org/urn:nbn:de:bsz:15-qucosa2-875111 (Accessed: 1 February 2025).
 
   * Düring, M. et al. (2023) ‘impresso Text Reuse at Scale. An interface for the exploration of text reuse data in semantically enriched historical newspapers’, Frontiers in Big Data, 6. Available at: https://doi.org/10.3389/fdata.2023.1249469.
 

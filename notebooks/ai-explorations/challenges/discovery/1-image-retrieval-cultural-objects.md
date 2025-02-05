@@ -18,6 +18,8 @@ Retrieve related images of cultural heritage objects from a source image of a cu
 
 #### 2023
 
+  * Wu, Y., Nakashima, Y. and Garcia, N. (2023) ‘Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis’, in Proceedings of the 2023 ACM International Conference on Multimedia Retrieval. New York, NY, USA: Association for Computing Machinery (ICMR ’23), pp. 199–208. Available at: https://doi.org/10.1145/3591106.3592262.
+
   * Yemelianenko, T. et al. (2023) ‘Learning to Rank Approach for Refining Image Retrieval in Visual Arts’, in. Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 1623–1631. Available at: https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/html/Yemelianenko_Learning_to_Rank_Approach_for_Refining_Image_Retrieval_in_Visual_ICCVW_2023_paper.html (Accessed: 23 August 2024).
   * Wu, Y., Nakashima, Y. and Garcia, N. (2023) ‘Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis’, in Proceedings of the 2023 ACM International Conference on Multimedia Retrieval. New York, NY, USA: Association for Computing Machinery (ICMR ’23), pp. 199–208. Available at: https://doi.org/10.1145/3591106.3592262.
 
@@ -33,4 +35,13 @@ Retrieve related images of cultural heritage objects from a source image of a cu
 
   * Seidenari, L. et al. (2017) ‘Deep Artwork Detection and Retrieval for Automatic Context-Aware Audio Guides’, ACM Trans. Multimedia Comput. Commun. Appl., 13(3s), p. 35:1-35:21. Available at: https://doi.org/10.1145/3092832.
  
+## Variations
+
+### Major
+
+  * 1A - Image retrieval with attribute modification
+
+### Minor
+
+  * 1a - Fashion Image Retrieval
 

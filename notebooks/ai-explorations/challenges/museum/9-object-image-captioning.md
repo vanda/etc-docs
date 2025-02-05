@@ -56,6 +56,20 @@ Some researchers do explicitly focus on an area though, for example generating a
 
 ### General
 
+#### 2022
+
+  * Sirisha, U. and Sai Chandana, B. (2022) ‘Semantic interdisciplinary evaluation of image captioning models’, Cogent Engineering, 9(1), p. 2104333. Available at: https://doi.org/10.1080/23311916.2022.2104333.
+
+#### 2021
+
+  * Elhagry, A. and Kadaoui, K. (2021) ‘A Thorough Review on Recent Deep Learning Methodologies for Image Captioning’. arXiv. Available at: https://doi.org/10.48550/arXiv.2107.13114.
+
+  * Stefanini, M. et al. (2021) ‘From Show to Tell: A Survey on Deep Learning-based Image Captioning’. arXiv. Available at: https://doi.org/10.48550/arXiv.2107.06912.
+
+#### 2019
+
+  * Hossain, MD.Z. et al. (2019) ‘A Comprehensive Survey of Deep Learning for Image Captioning’, ACM Comput. Surv., 51(6), p. 118:1-118:36. Available at: https://doi.org/10.1145/3295748.
+
 ## Variations
 
 ### Major Variations

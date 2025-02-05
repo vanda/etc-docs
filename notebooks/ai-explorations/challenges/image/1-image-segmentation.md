@@ -12,6 +12,10 @@ Seperate an image into the foreground (likely the cultural heritage object) and 
 
 ### Cultural Heritage
 
+#### 2024
+
+  * Harvey, F. et al. (2024) ‘CNN-based Semantic Segmentation for Comparisons of Old Maps: A Progress Update’, Abstracts of the ICA, 8, pp. 1–1. Available at: https://doi.org/10.5194/ica-abs-8-10-2024.
+
 #### 2021
 
   * Ypsilantis, N.-A. et al. (2021) ‘The Met Dataset: Instance-level Recognition for Artworks’, in. Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). Available at: https://openreview.net/forum?id=fnuAjFL7MXy (Accessed: 27 August 2024).

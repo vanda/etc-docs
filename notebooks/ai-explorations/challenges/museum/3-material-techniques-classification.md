@@ -30,3 +30,9 @@ Identify the materials and/or techniques used to create a cultural heritage obje
 
 #### 2017 
   * Strezoski, G. and Worring, M. (2017) ‘OmniArt: Multi-task Deep Learning for Artistic Data Analysis’. arXiv. Available at: http://arxiv.org/abs/1708.00684 (Accessed: 8 September 2024).
+
+## Variations
+
+### Major
+
+  * 3A - Weave Pattern Recognition

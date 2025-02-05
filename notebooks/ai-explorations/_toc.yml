@@ -20,6 +20,8 @@ parts:
 #     title: Object Types
    - file: resources/cultural-heritage-ai-news.md
      title: Announcements
+   - file: resources/cultural-heritage-ai-datasets.md
+     title: Datasets
 #   - file: resources/cultural-heritage-ai-community.md
 #     title: Community 
 #   - file: resources/cultural-heritage-ai-projects.md
@@ -53,6 +55,8 @@ parts:
      title: 9. Object Image Captioning
    - file: challenges/museum/10-object-image-description
      title: 10. Object Image Description
+   - file: challenges/museum/11-object-date
+     title: 11. Object Dating
  - caption: Library Record Challenges
    numbered: False
    chapters:  
@@ -108,6 +112,10 @@ parts:
      title: 6. Pose Detection
    - file: challenges/image/7-image-registration
      title: 7. Image Registration
+   - file: challenges/image/8-emotional-stimuli
+     title: 8. Emotional Stimuli
+   - file: challenges/image/9-sensitive-image-detection
+     title: 9. Sensitive Image Detection
  - caption: Textual Content Challenges
    chapters:
    - file: challenges/text/1-ocr-htr-text-content

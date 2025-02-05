@@ -22,14 +22,25 @@ Identify the artist/maker/school of a cultural heritage object from media and me
 
   * Shahi, M., Rajabi, R. and Masoumzadeh, F. (2025) ‘CNN-based classification of Persian miniature paintings from five renowned schools’, Digital Applications in Archaeology and Cultural Heritage, 36, p. e00397. Available at: https://doi.org/10.1016/j.daach.2024.e00397.
 
+  * Bianco, S., Ciocca, G. and Schettini, R. (2025) ‘Painter Verification Using Color Palettes: An Exploratory Study’, in R. Schettini et al. (eds) Computational Color Imaging. Cham: Springer Nature Switzerland, pp. 233–246. Available at: https://doi.org/10.1007/978-3-031-72845-7_17.
 
 #### 2024
+
+  * [not open acces] Edwards, H.G.M. (2024) ‘The Application of Artificial Intelligence (AI) to the Attribution of Art Works’, in H.G.M. Edwards (ed.) A Raphael Madonna and Child Oil Painting:  A Forensic Analytical Evaluation. Cham: Springer Nature Switzerland, pp. 181–215. Available at: https://doi.org/10.1007/978-3-031-72271-4_7.
+
+  * [not open acces] Schmitt, N. et al. (2024) ‘Transfer Learning for Artwork Attribution: Assessing the Importance of the Artist’s Signature’, in 2024 IEEE Thirteenth International Conference on Image Processing Theory, Tools and Applications (IPTA). 2024 IEEE Thirteenth International Conference on Image Processing Theory, Tools and Applications (IPTA), pp. 01–07. Available at: https://doi.org/10.1109/IPTA62886.2024.10755887.
+
 
   * Smith, J.H. et al. (2024) ‘Using machine learning to distinguish between authentic and imitation Jackson Pollock poured paintings: A tile-driven approach to computer vision’, PLOS ONE, 19(6), p. e0302962. Available at: https://doi.org/10.1371/journal.pone.0302962.
 
   * Fumanal-Idocin, J. et al. (2024) ‘ARTxAI: Explainable Artificial Intelligence Curates Deep Representation Learning for Artistic Images Using Fuzzy Techniques’, IEEE Transactions on Fuzzy Systems, 32(4), pp. 1915–1926. Available at: https://doi.org/10.1109/TFUZZ.2023.3337878.
 
+
 #### 2023
+
+  * Mihăilă, E.V. and Iftene, A. (2024) ‘ENHANCING PAINTER IDENTIFICATION THROUGH STATE-OFTHE-ART ARTISTIC IMAGE RECOGNITION TECHNIQUES’, European Journal of Public Administration Research, (2), pp. 9–20. Available at: https://doi.org/10.47743/ejpar.2023-2-2.
+
+  * Lyberatos, V. et al. (2023) ‘Synergy of Machine and Deep Learning Models for Multi-Painter Recognition’. arXiv. Available at: https://doi.org/10.48550/arXiv.2304.14773.
 
   * Ugail, H. et al. (2023) ‘Deep transfer learning for visual analysis and attribution of paintings by Raphael’, Heritage Science, 11(1), pp. 1–15. Available at: https://doi.org/10.1186/s40494-023-01094-0.
 
@@ -39,11 +50,16 @@ Identify the artist/maker/school of a cultural heritage object from media and me
 
   * Zhao, W., Jiang, W. and Qiu, X. (2022) ‘Big Transfer Learning for Fine Art Classification’, Computational Intelligence and Neuroscience, 2022(1), p. 1764606. Available at: https://doi.org/10.1155/2022/1764606.
 
+  * [not open access] Bwanali, M. et al. (2024) ‘On Handcrafted Machine Learning Features for Art Authentication’, in 2024 IEEE 8th International Conference on Signal and Image Processing Applications (ICSIPA). 2024 IEEE 8th International Conference on Signal and Image Processing Applications (ICSIPA), pp. 1–6. Available at: https://doi.org/10.1109/ICSIPA62061.2024.10686088.
+
 #### 2021
 
   * Zhao, W. et al. (2021) ‘Compare the performance of the models in art classification’, PLOS ONE, 16(3), p. e0248414. Available at: https://doi.org/10.1371/journal.pone.0248414.
 
+  * [not open access ] Cömert, C., Özbayoğlu, M. and Kasnakoğlu, C. (2021) ‘Painter Prediction from Artworks with Transfer Learning’, in 2021 7th International Conference on Mechatronics and Robotics Engineering (ICMRE). 2021 7th International Conference on Mechatronics and Robotics Engineering (ICMRE), pp. 204–208. Available at: https://doi.org/10.1109/ICMRE51691.2021.9384828.
+
   * Zhao, W. et al. (2021) ‘How to Represent Paintings: A Painting Classification Using Artistic Comments’, Sensors, 21(6), p. 1940. Available at: https://doi.org/10.3390/s21061940.
+
 
 #### 2019
 
@@ -63,3 +79,9 @@ Identify the artist/maker/school of a cultural heritage object from media and me
 #### 2016
 
   * Tan, W.R. et al. (2016) ‘Ceci n’est pas une pipe: A deep convolutional network for fine-art paintings classification’, in 2016 IEEE International Conference on Image Processing (ICIP). 2016 IEEE International Conference on Image Processing (ICIP), pp. 3703–3707. Available at: https://doi.org/10.1109/ICIP.2016.7533051.
+
+## Variations
+
+### Minor
+
+  * 2/A - Identification of artist from an image taken of the object on display

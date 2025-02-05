@@ -12,15 +12,22 @@ Identify any iconography figure(s) depicted on a cultural heritage object from a
 
 #### 2024
 
+  * Hada, N., Singh, A. and Vemuri, K. (2024) ‘FolkTalent: Enhancing Classification and Tagging of Indian Folk Paintings’. arXiv. Available at: https://doi.org/10.48550/arXiv.2405.08776.
+
   * Springstein, M. et al. (2024) ‘Visual Narratives: Large-Scale Hierarchical Classification of Art-Historical Images’, in. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 7220–7230. Available at: https://openaccess.thecvf.com/content/WACV2024/html/Springstein_Visual_Narratives_Large-Scale_Hierarchical_Classification_of_Art-Historical_Images_WACV_2024_paper.html (Accessed: 24 August 2024).
 
 #### 2023
+
+  * Madhu, P. (2023) Concepts to Computational Constructs: Advanced Scene Understanding for Heterogeneous Artworks Using Deep Learning. Friedrich-Alexander-Universitaet. Available at: https://open.fau.de/handle/openfau/23213 (Accessed: 3 February 2025).
 
   * Banar, N., Daelemans, W. and Kestemont, M. (2023) ‘Transfer Learning for the Visual Arts: The Multi-modal Retrieval of Iconclass Codes’, J. Comput. Cult. Herit., 16(2), p. 32:1-32:16. Available at: https://doi.org/10.1145/3575865.
   * Milani, F. (2023) ‘Analysis of cultural heritage data for complex iconography studies’. Available at: https://www.politesi.polimi.it/handle/10589/196870 (Accessed: 24 August 2024).
 
 #### 2022
-  * Banari, N. (no date) ‘Applications of Artificial Intelligence for the Resource-Scarce Cultural Heritage Domain’.
+
+  * Rizvi, S.A. (2022) Iconography in Christian Historic Artwork. Masters. Otto-von-Guericke.
+
+  * Banari, N. (2022) ‘Applications of Artificial Intelligence for the Resource-Scarce Cultural Heritage Domain’.
 
 
 #### 2021

@@ -14,6 +14,10 @@ Identify those parts of an image of a cultural heritage object that contains dep
 
 #### 2024
 
+  * Hada, N., Singh, A. and Vemuri, K. (2024) ‘FolkTalent: Enhancing Classification and Tagging of Indian Folk Paintings’. arXiv. Available at: https://doi.org/10.48550/arXiv.2405.08776.
+
+  * Khan, S. and Noord, N. van (2024) ‘Context-Infused Visual Grounding for Art’. arXiv. Available at: https://doi.org/10.48550/arXiv.2410.12369.
+
   * Yemelianenko, T. et al. (2024) ‘An approach for dataset extension for object detection in artworks using open-vocabulary models’, in Proceedings of the European Conference on Computer Vision (ECCV) Workshops. Milan (Italie), Italy: ECCV. Available at: https://hal.science/hal-04820558 (Accessed: 25 January 2025).
 
   * Ramos, P. et al. (2024) ‘No Annotations for Object Detection in Art through Stable Diffusion’. arXiv. Available at: https://doi.org/10.48550/arXiv.2412.06286.
@@ -43,6 +47,10 @@ Identify those parts of an image of a cultural heritage object that contains dep
 #### 2017
   * Seidenari, L. et al. (2017) ‘Deep Artwork Detection and Retrieval for Automatic Context-Aware Audio Guides’, ACM Trans. Multimedia Comput. Commun. Appl., 13(3s), p. 35:1-35:21. Available at: https://doi.org/10.1145/3092832.
 
+#### 2015
+
+  * Crowley, E.J. and Zisserman, A. (2015) ‘In Search of Art’, in L. Agapito, M.M. Bronstein, and C. Rother (eds) Computer Vision - ECCV 2014 Workshops. Cham: Springer International Publishing, pp. 54–70. Available at: https://doi.org/10.1007/978-3-319-16178-5_4.
+
 ### General
 
 ## Datasets
@@ -51,3 +59,8 @@ Identify those parts of an image of a cultural heritage object that contains dep
 
   * Zuijlen, M.J.P.V. et al. (2021) ‘Materials In Paintings (MIP): An interdisciplinary dataset for perception, art history, and computer vision’, PLOS ONE, 16(8), p. e0255109. Available at: https://doi.org/10.1371/journal.pone.0255109.
 
+## Variations
+
+### General
+
+  * 3a - Clothing Detection
