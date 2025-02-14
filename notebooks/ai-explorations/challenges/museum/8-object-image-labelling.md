@@ -38,16 +38,14 @@ Some researchers do explicitly focus on an area though, for example generating a
 
 #### 2023
 
-  * Cetinic, E. (2021) ‘Towards Generating and Evaluating Iconographic Image Captions of Artworks’, Journal of Imaging, 7(8), p. 123. Available at: https://doi.org/10.3390/jimaging7080123. [
 
   * Martinez Pandiani, D.S. et al. (2023) ‘Hypericons for interpretability: decoding abstract concepts in visual data’, International Journal of Digital Humanities, 5(2–3), pp. 451–490. Available at: https://doi.org/10.1007/s42803-023-00077-8.
 
-
 #### 2021
 
-  * Milani, Federico, and Piero Fraternali, ‘A Dataset and a Convolutional Model for Iconography Classification in Paintings’, J. Comput. Cult. Herit., 14.4 (2021), p. 46:1-46:18, doi:10.1145/3458885
+  * Cetinic, E. (2021) ‘Towards Generating and Evaluating Iconographic Image Captions of Artworks’, Journal of Imaging, 7(8), p. 123. Available at: https://doi.org/10.3390/jimaging7080123. [
 
-### General
+  * Milani, Federico, and Piero Fraternali, ‘A Dataset and a Convolutional Model for Iconography Classification in Paintings’, J. Comput. Cult. Herit., 14.4 (2021), p. 46:1-46:18, doi:10.1145/3458885
 
 ## Variations
 

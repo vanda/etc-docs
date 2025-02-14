@@ -21,6 +21,7 @@ Identify any iconography figure(s) depicted on a cultural heritage object from a
   * Madhu, P. (2023) Concepts to Computational Constructs: Advanced Scene Understanding for Heterogeneous Artworks Using Deep Learning. Friedrich-Alexander-Universitaet. Available at: https://open.fau.de/handle/openfau/23213 (Accessed: 3 February 2025).
 
   * Banar, N., Daelemans, W. and Kestemont, M. (2023) ‘Transfer Learning for the Visual Arts: The Multi-modal Retrieval of Iconclass Codes’, J. Comput. Cult. Herit., 16(2), p. 32:1-32:16. Available at: https://doi.org/10.1145/3575865.
+
   * Milani, F. (2023) ‘Analysis of cultural heritage data for complex iconography studies’. Available at: https://www.politesi.polimi.it/handle/10589/196870 (Accessed: 24 August 2024).
 
 #### 2022
@@ -29,20 +30,13 @@ Identify any iconography figure(s) depicted on a cultural heritage object from a
 
   * Banari, N. (2022) ‘Applications of Artificial Intelligence for the Resource-Scarce Cultural Heritage Domain’.
 
-
 #### 2021
 
   * Pinciroli Vago, N.O. et al. (2021) ‘Comparing CAM Algorithms for the Identification of Salient Image Features in Iconography Artwork Analysis’, Journal of Imaging, 7(7), p. 106. Available at: https://doi.org/10.3390/jimaging7070106.
 
   *  Milani, Federico, and Piero Fraternali, ‘A Dataset and a Convolutional Model for Iconography Classification in Paintings’, J. Comput. Cult. Herit., 14.4 (2021), p. 46:1-46:18, doi:10.1145/3458885
 
-### General
-
-To be done
-
 ## Variations
-
-### Major Variations
 
 ### Minor Variations
 

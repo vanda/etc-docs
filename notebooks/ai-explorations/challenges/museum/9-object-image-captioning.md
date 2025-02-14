@@ -39,8 +39,11 @@ Some researchers do explicitly focus on an area though, for example generating a
 #### 2023
 
   * Cioni, D. et al. (2023) ‘Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage’, in. Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 1707–1716. Available at: https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/html/Cioni_Diffusion_Based_Augmentation_for_Captioning_and_Retrieval_in_Cultural_Heritage_ICCVW_2023_paper.html (Accessed: 23 August 2024).
+
   * Stefanini, M. et al. (2023) ‘From Show to Tell: A Survey on Deep Learning-Based Image Captioning’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(1), pp. 539–559. Available at: https://doi.org/10.1109/TPAMI.2022.3148210.
+
   * Del Moro, M. et al. (2023) ‘Inception Models for Fashion Image Captioning: An Extensive Study on Multiple Datasets’, in A. Arampatzis et al. (eds) Experimental IR Meets Multilinguality, Multimodality, and Interaction. Cham: Springer Nature Switzerland, pp. 3–14. Available at: https://doi.org/10.1007/978-3-031-42448-9_1.
+
   * Bongini, P., Becattini, F. and Del Bimbo, A. (2023) ‘Is GPT-3 All You Need for Visual Question Answering in Cultural Heritage?’, in L. Karlinsky, T. Michaeli, and K. Nishino (eds) Computer Vision – ECCV 2022 Workshops. Cham: Springer Nature Switzerland, pp. 268–281. Available at: https://doi.org/10.1007/978-3-031-25056-9_18.
 
 #### 2022

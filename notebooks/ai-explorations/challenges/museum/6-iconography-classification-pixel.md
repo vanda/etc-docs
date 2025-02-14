@@ -33,11 +33,7 @@ Identify iconographic figure(s) depicted on a cultural heritage object from a di
 
   *  Milani, Federico, and Piero Fraternali, ‘A Dataset and a Convolutional Model for Iconography Classification in Paintings’, J. Comput. Cult. Herit., 14.4 (2021), p. 46:1-46:18, doi:10.1145/3458885
 
-### General
-
 ## Variations
-
-### Major Variations
 
 ### Minor Variations
 

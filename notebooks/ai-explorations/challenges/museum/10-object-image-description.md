@@ -28,8 +28,6 @@ Some researchers do explictily focus on one area though, for example generating 
 
 ### Cultural Heritage
 
-#### 2024
-
 #### 2023
 
   * Del Moro, M. et al. (2023) ‘Inception Models for Fashion Image Captioning: An Extensive Study on Multiple Datasets’, in A. Arampatzis et al. (eds) Experimental IR Meets Multilinguality, Multimodality, and Interaction. Cham: Springer Nature Switzerland, pp. 3–14. Available at: https://doi.org/10.1007/978-3-031-42448-9_1.

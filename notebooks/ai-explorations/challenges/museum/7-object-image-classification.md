@@ -40,13 +40,10 @@ Some researchers do explictily focus on one area, for example generating a full 
 
   * Martinez Pandiani, D.S. et al. (2023) ‘Hypericons for interpretability: decoding abstract concepts in visual data’, International Journal of Digital Humanities, 5(2–3), pp. 451–490. Available at: https://doi.org/10.1007/s42803-023-00077-8.
 
-
 #### 2021
 
   * Milani, Federico, and Piero Fraternali, ‘A Dataset and a Convolutional Model for Iconography Classification in Paintings’, J. Comput. Cult. Herit., 14.4 (2021), p. 46:1-46:18, doi:10.1145/3458885
   * Sabatelli, M. et al. (2021) ‘Advances in Digital Music Iconography: Benchmarking the detection of musical instruments in unrestricted, non-photorealistic images from the artistic domain’, Digital Humanities Quarterly, 15(1). Available at: https://orbi.uliege.be/handle/2268/258325 (Accessed: 28 September 2024).
-
-### General
 
 ## Variations
 

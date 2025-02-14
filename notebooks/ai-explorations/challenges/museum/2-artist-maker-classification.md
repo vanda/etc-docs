@@ -18,27 +18,27 @@ Identify the artist/maker/school of a cultural heritage object from media and me
 
 #### 2025
 
-  * Tang, T. et al. (2024) ‘ArtEyer: Enriching GPT-based agents with contextual data visualizations for fine art authentication’, Visual Informatics, 8(4), pp. 48–59. Available at: https://doi.org/10.1016/j.visinf.2024.11.001.
-
   * Shahi, M., Rajabi, R. and Masoumzadeh, F. (2025) ‘CNN-based classification of Persian miniature paintings from five renowned schools’, Digital Applications in Archaeology and Cultural Heritage, 36, p. e00397. Available at: https://doi.org/10.1016/j.daach.2024.e00397.
 
   * Bianco, S., Ciocca, G. and Schettini, R. (2025) ‘Painter Verification Using Color Palettes: An Exploratory Study’, in R. Schettini et al. (eds) Computational Color Imaging. Cham: Springer Nature Switzerland, pp. 233–246. Available at: https://doi.org/10.1007/978-3-031-72845-7_17.
 
 #### 2024
 
+  * Tang, T. et al. (2024) ‘ArtEyer: Enriching GPT-based agents with contextual data visualizations for fine art authentication’, Visual Informatics, 8(4), pp. 48–59. Available at: https://doi.org/10.1016/j.visinf.2024.11.001.
+
   * [not open acces] Edwards, H.G.M. (2024) ‘The Application of Artificial Intelligence (AI) to the Attribution of Art Works’, in H.G.M. Edwards (ed.) A Raphael Madonna and Child Oil Painting:  A Forensic Analytical Evaluation. Cham: Springer Nature Switzerland, pp. 181–215. Available at: https://doi.org/10.1007/978-3-031-72271-4_7.
 
   * [not open acces] Schmitt, N. et al. (2024) ‘Transfer Learning for Artwork Attribution: Assessing the Importance of the Artist’s Signature’, in 2024 IEEE Thirteenth International Conference on Image Processing Theory, Tools and Applications (IPTA). 2024 IEEE Thirteenth International Conference on Image Processing Theory, Tools and Applications (IPTA), pp. 01–07. Available at: https://doi.org/10.1109/IPTA62886.2024.10755887.
-
 
   * Smith, J.H. et al. (2024) ‘Using machine learning to distinguish between authentic and imitation Jackson Pollock poured paintings: A tile-driven approach to computer vision’, PLOS ONE, 19(6), p. e0302962. Available at: https://doi.org/10.1371/journal.pone.0302962.
 
   * Fumanal-Idocin, J. et al. (2024) ‘ARTxAI: Explainable Artificial Intelligence Curates Deep Representation Learning for Artistic Images Using Fuzzy Techniques’, IEEE Transactions on Fuzzy Systems, 32(4), pp. 1915–1926. Available at: https://doi.org/10.1109/TFUZZ.2023.3337878.
 
+  * Mihăilă, E.V. and Iftene, A. (2024) ‘ENHANCING PAINTER IDENTIFICATION THROUGH STATE-OFTHE-ART ARTISTIC IMAGE RECOGNITION TECHNIQUES’, European Journal of Public Administration Research, (2), pp. 9–20. Available at: https://doi.org/10.47743/ejpar.2023-2-2.
+
+  * [not open access] Bwanali, M. et al. (2024) ‘On Handcrafted Machine Learning Features for Art Authentication’, in 2024 IEEE 8th International Conference on Signal and Image Processing Applications (ICSIPA). 2024 IEEE 8th International Conference on Signal and Image Processing Applications (ICSIPA), pp. 1–6. Available at: https://doi.org/10.1109/ICSIPA62061.2024.10686088.
 
 #### 2023
-
-  * Mihăilă, E.V. and Iftene, A. (2024) ‘ENHANCING PAINTER IDENTIFICATION THROUGH STATE-OFTHE-ART ARTISTIC IMAGE RECOGNITION TECHNIQUES’, European Journal of Public Administration Research, (2), pp. 9–20. Available at: https://doi.org/10.47743/ejpar.2023-2-2.
 
   * Lyberatos, V. et al. (2023) ‘Synergy of Machine and Deep Learning Models for Multi-Painter Recognition’. arXiv. Available at: https://doi.org/10.48550/arXiv.2304.14773.
 
@@ -49,8 +49,6 @@ Identify the artist/maker/school of a cultural heritage object from media and me
 #### 2022
 
   * Zhao, W., Jiang, W. and Qiu, X. (2022) ‘Big Transfer Learning for Fine Art Classification’, Computational Intelligence and Neuroscience, 2022(1), p. 1764606. Available at: https://doi.org/10.1155/2022/1764606.
-
-  * [not open access] Bwanali, M. et al. (2024) ‘On Handcrafted Machine Learning Features for Art Authentication’, in 2024 IEEE 8th International Conference on Signal and Image Processing Applications (ICSIPA). 2024 IEEE 8th International Conference on Signal and Image Processing Applications (ICSIPA), pp. 1–6. Available at: https://doi.org/10.1109/ICSIPA62061.2024.10686088.
 
 #### 2021
 
@@ -65,12 +63,11 @@ Identify the artist/maker/school of a cultural heritage object from media and me
 
   * David, L. et al. (2021) ‘Connoisseur: Provenance Analysis in Paintings’, in 2021 IEEE Symposium Series on Computational Intelligence (SSCI). 2021 IEEE Symposium Series on Computational Intelligence (SSCI), pp. 1–8. Available at: https://doi.org/10.1109/SSCI50451.2021.9659547.
 
-
 #### 2018
 
   * Sabatelli, M. et al. (2018) ‘Deep Transfer Learning for Art Classification Problems’, in. Proceedings of the European Conference on Computer Vision (ECCV) Workshops, pp. 0–0. Available at: https://openaccess.thecvf.com/content_eccv_2018_workshops/w13/html/Sabatelli_Deep_Transfer_Learning_for_Art_Classification_Problems_ECCVW_2018_paper.html (Accessed: 8 September 2024).
-  * Cetinic, E., Lipic, T. and Grgic, S. (2018) ‘Fine-tuning Convolutional Neural Networks for fine art classification’, Expert Systems with Applications, 114, pp. 107–118. Available at: https://doi.org/10.1016/j.eswa.2018.07.026.
 
+  * Cetinic, E., Lipic, T. and Grgic, S. (2018) ‘Fine-tuning Convolutional Neural Networks for fine art classification’, Expert Systems with Applications, 114, pp. 107–118. Available at: https://doi.org/10.1016/j.eswa.2018.07.026.
 
 #### 2017
 
